@@ -24,10 +24,10 @@ Modern aviation ADFs contain a small array of fixed aerials and use electronic s
 
 ADF receivers can be used to determine current position, track inbound and outbound flight path, and intercept a desired bearing. These procedures are also used to execute holding patterns and non-precision instrument approaches.![](ADF/ndb_track.jpg)
 
-## More Reading
+### More Reading
 [Pilots Handbook of Aeronautical Knowledge](ADF/Pilots%Handbook%of%Aeronautical%Knowledge.pdf)
 
-## Videos
+### Videos
 [Understanding ADF](https://youtu.be/QQitucLrC8U?si=UZUXvmXRAXL9OD61)
 
 # Distance Musering Equipment 
@@ -81,13 +81,19 @@ Not all defined channels/frequencies are assigned. There are assignment 'holes' 
 
 Precision DME (DME/P), a component of the Microwave Landing System, is assigned to Z channels, which have a third set of interrogation and reply pulse spacings. The Z channels are multiplexed with the Y channels and do not materially affect the channel plan.
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 [Distance Measuring Equipment](https://youtu.be/wMmooAYr9sw?si=bqWSsvgKMyMLXZvk)
 
 [DME](https://youtu.be/CEpoCVGk1UQ?si=HjiNIj6QVjT1fCE7)
 
+
+# Compass
+
+### More Reading
+
+### Videos
 
 
 # VHF Omnidirectional Range (VOR)
@@ -145,73 +151,52 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 ![](VOR/VOR_Course_Deviation_Indicator_explanation.gif)
 
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 
 [VOR](https://youtu.be/KRSaSNeymNo?si=vSwxBAN2Q-JxOhm-)
 
 
-
-
-
-
-# AHRS
-
-## More Reading
-
-## Videos
-
 # Transponder
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 
 [Primary and Secondary Surveillance Radar](https://youtu.be/i4fIHHGp2zU?si=leMDIU0hTsa9VtfD)
 [Secondary Surveillance Radar: Mode S](https://youtu.be/M_C2R4U-xug?si=v3dzMByYM6NHMz1-)
 
-# Attitude Indicator
+# TCAS
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 
-# Autopilot
 
-## More Reading
+# ILS
 
-## Videos
+### More Reading
 
-# CMC
+### Videos
 
-## More Reading
+[Instrument Landing System](https://youtu.be/avOHOL2bmGI?si=5ogSTTGNBONCaltG)
 
-## Videos
 
-# Compass
+# INS
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 
-# EGPWS
+[Inertial Naviagtion](https://youtu.be/kqRJGolOLec?si=8HN6uAGn9jjXeuMJ)
 
-## More Reading
 
-## Videos
+# AHRS
 
-# ELT 
+### More Reading
 
-## More Reading
-
-## Videos
-
-# FAR-CFR
-
-## More Reading
-
-## Videos
+### Videos
 
 # FMS
 
@@ -225,91 +210,132 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 [GPS Localization and Navigation Message](https://youtu.be/UFIWAEKHyGY?si=KtbQ7E1wqgPEoLD9)
 [GPS Signals](https://youtu.be/yK1Q6fN6Q7g?si=bsCBRrTxbkNaLiHG)
 
+# Radar Altimeter
+
+### More Reading
+
+### Videos
+
+
+
+---------------------------------------------------------------------------------------
+# VHF COMM
+
+### More Reading
+
+### Videos
 
 # HF Comm
 
-## More Reading
+## Selcal
 
-## Videos
+### More Reading
 
-# ILS
+### Videos
 
-## More Reading
+# ELT 
 
-## Videos
+### More Reading
 
-[Instrument Landing System](https://youtu.be/avOHOL2bmGI?si=5ogSTTGNBONCaltG)
+### Videos
 
-# INS
 
-## More Reading
-
-## Videos
-
-[Inertial Naviagtion](https://youtu.be/kqRJGolOLec?si=8HN6uAGn9jjXeuMJ)
-
-# Iriduum
-
-## More Reading
-
-## Videos
-
-# KA KU
-
-## More Reading
-
-## Videos
-
-# Pitot Static
-
-## More Reading
-
-## Videos
-
-# Radar Altimeter
-
-## More Reading
-
-## Videos
 
 # Satcom
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
+
+------------------------------------------------------------------------------------------------------
+
+
+
+# GO GO
+
+### More Reading
+
+### Videos
+
+
+# KA KU
+
+### More Reading
+
+### Videos
+
+# Iriduum
+
+### More Reading
+
+### Videos
+
+
+------------------------------------------------------------------------------------
+
+# Attitude Indicator
+
+### More Reading
+
+### Videos
+
+
+
+# Autopilot
+
+### More Reading
+
+### Videos
+
+
+
+# CMC
+
+### More Reading
+
+### Videos
+
+
+
+# EGPWS
+
+### More Reading
+
+### Videos
+
+
+
+# Pitot Static
+
+### More Reading
+
+### Videos
+
+
+
+
 
 # Sat Tas
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 
-# TCAS
 
-## More Reading
-
-## Videos
-
-# VHF COMM
-
-## More Reading
-
-## Videos
-
-# VOR
-
-## More Reading
-
-## Videos
 
 # VSI
 
-## More Reading
+### More Reading
 
-## Videos
+### Videos
 
 
 
+# FAR-CFR
+
+### More Reading
+
+### Videos
 
 
 
