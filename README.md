@@ -5,7 +5,7 @@ This will be used as a location to house open source information to help teach n
 
 ## Automatic direction finder 
 
-An automatic direction finder (ADF) is a radio-navigation instrument that automatically and continuously displays the relative bearing from the aircraft to a suitable radio station. ADF receivers are normally tuned to aviationor NDBs (Non-Directional Beacon) operating in the LW band between 190 – 535 kHz. Like RDF (Radio Direction Finder) units, most ADF receivers can also receive medium wave (AM) broadcast stations, though these are less reliable for navigational purposes.
+An automatic direction finder (ADF) is a radio-navigation instrument that automatically and continuously displays the relative bearing from the aircraft to a suitable radio station. ADF receivers are normally tuned to aviationor NDBs (Non-Directional Beacon) operating in the LW band between 190 – 535 kHz. Like RDF ([Radio Direction Finder](https://en.wikipedia.org/wiki/Direction_finding)) units, most ADF receivers can also receive medium wave (AM) broadcast stations, though these are less reliable for navigational purposes.
 
 The operator tunes the ADF receiver to the correct frequency and verifies the identity of the beacon by listening to the Morse code signal transmitted by the NDB. On old ADF receivers, the motorized ferrite-bar antenna atop the unit (or remotely mounted on the masthead) would rotate and lock when reaching the null of the desired station. See Loop Antenna on top of this Lockheed Model 10 Electra.
 ![](ADF/RDFAntenna.jpg)
