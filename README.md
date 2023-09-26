@@ -168,6 +168,7 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 
 ## Videos
 
+[Primary and Secondary Surveillance Radar](https://youtu.be/i4fIHHGp2zU?si=leMDIU0hTsa9VtfD)
 [Secondary Surveillance Radar: Mode S](https://youtu.be/M_C2R4U-xug?si=v3dzMByYM6NHMz1-)
 
 # Attitude Indicator
@@ -214,9 +215,16 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 
 # FMS
 
-## More Reading
+## GPS 
 
-## Videos
+### More Reading
+
+### Videos
+
+[How GPS Works, And How It Got Better Than The Designers Ever Imagined](https://youtu.be/qJ7ZAUjsycY?si=m5zHfkj7PmRT8Kdr)
+[GPS Localization and Navigation Message](https://youtu.be/UFIWAEKHyGY?si=KtbQ7E1wqgPEoLD9)
+[GPS Signals](https://youtu.be/yK1Q6fN6Q7g?si=bsCBRrTxbkNaLiHG)
+
 
 # HF Comm
 
@@ -230,11 +238,15 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 
 ## Videos
 
+[Instrument Landing System](https://youtu.be/avOHOL2bmGI?si=5ogSTTGNBONCaltG)
+
 # INS
 
 ## More Reading
 
 ## Videos
+
+[Inertial Naviagtion](https://youtu.be/kqRJGolOLec?si=8HN6uAGn9jjXeuMJ)
 
 # Iriduum
 
