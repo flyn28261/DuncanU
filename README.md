@@ -37,7 +37,7 @@ While stand-alone DME transponders are permitted, DME transponders are usually p
 
 ICAO characterizes DME transmissions as ultra high frequency (UHF). The term L-band is also used.
 
-![](
+![](DME/L_Band_Antenna.jpg)
 
 ## Operation
 
