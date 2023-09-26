@@ -145,6 +145,11 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 ![](VOR/VOR_Course_Deviation_Indicator_explanation.gif)
 
 
+## More Reading
+
+## Videos
+
+[VOR](https://youtu.be/KRSaSNeymNo?si=vSwxBAN2Q-JxOhm-)
 
 
 
@@ -152,28 +157,144 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 
 
 # AHRS
-# ATC
+
+## More Reading
+
+## Videos
+
+# Transponder
+
+## More Reading
+
+## Videos
+
+[Secondary Surveillance Radar: Mode S](https://youtu.be/M_C2R4U-xug?si=v3dzMByYM6NHMz1-)
+
 # Attitude Indicator
+
+## More Reading
+
+## Videos
+
 # Autopilot
+
+## More Reading
+
+## Videos
+
 # CMC
+
+## More Reading
+
+## Videos
+
 # Compass
+
+## More Reading
+
+## Videos
+
 # EGPWS
+
+## More Reading
+
+## Videos
+
 # ELT 
+
+## More Reading
+
+## Videos
+
 # FAR-CFR
+
+## More Reading
+
+## Videos
+
 # FMS
+
+## More Reading
+
+## Videos
+
 # HF Comm
+
+## More Reading
+
+## Videos
+
 # ILS
+
+## More Reading
+
+## Videos
+
 # INS
+
+## More Reading
+
+## Videos
+
 # Iriduum
+
+## More Reading
+
+## Videos
+
 # KA KU
+
+## More Reading
+
+## Videos
+
 # Pitot Static
+
+## More Reading
+
+## Videos
+
 # Radar Altimeter
+
+## More Reading
+
+## Videos
+
 # Satcom
+
+## More Reading
+
+## Videos
+
 # Sat Tas
+
+## More Reading
+
+## Videos
+
 # TCAS
+
+## More Reading
+
+## Videos
+
 # VHF COMM
+
+## More Reading
+
+## Videos
+
 # VOR
+
+## More Reading
+
+## Videos
+
 # VSI
+
+## More Reading
+
+## Videos
 
 
 
