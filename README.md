@@ -103,3 +103,32 @@ The intersection of radials from two different VOR stations can be used to fix t
 VOR stations are fairly short range: the signals are line-of-sight between transmitter and receiver and are useful for up to 200 nautical miles (370 kilometres). Each station broadcasts a VHF radio composite signal including the mentioned navigation and reference signal, station's identifier and voice, if so equipped. The station's identifier is typically a three-letter string in Morse code. The voice signal, if used, is usually the station name, in-flight recorded advisories, or live flight service broadcasts.
 
 A VORTAC is a radio-based navigational aid for aircraft pilots consisting of a co-located VHF omnidirectional range and a tactical air navigation system (TACAN) beacon. Both types of beacons provide pilots azimuth information, but the VOR system is generally used by civil aircraft and the TACAN system by military aircraft. However, the TACAN distance measuring equipment is also used for civil purposes because civil DME equipment is built to match the military DME specifications. Most VOR installations in the United States are VORTACs. The system was designed and developed by the Cardion Corporation. The Research, Development, Test, and Evaluation (RDT&E) contract was awarded 28 December 1981.[8]
+
+# AHRS
+# ATC
+# Attitude Indicator
+# Autopilot
+# CMC
+# Compass
+# EGPWS
+# ELT 
+# FAR-CFR
+# FMS
+# HF Comm
+# ILS
+# INS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
