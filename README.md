@@ -4,6 +4,7 @@ This will be used as a location to house open source information to help teach n
 
 
 # Automatic direction finder 
+------------------------------------------------------------------------------------------------------------
 
 An automatic direction finder (ADF) is a radio-navigation instrument that automatically and continuously displays the relative bearing from the aircraft to a suitable radio station. ADF receivers are normally tuned to aviation NDBs (Non-Directional Beacon) operating in the LW band between 190 – 535 kHz. Like RDF ([Radio Direction Finder](https://en.wikipedia.org/wiki/Direction_finding)) units, most ADF receivers can also receive medium wave (AM) broadcast stations, though these are less reliable for navigational purposes.
 
@@ -30,6 +31,7 @@ ADF receivers can be used to determine current position, track inbound and outbo
 [Understanding ADF](https://youtu.be/QQitucLrC8U?si=UZUXvmXRAXL9OD61)
 
 # Distance Musering Equipment 
+------------------------------------------------------------------------------------------------------------
 
 In aviation, distance measuring equipment (DME) is a radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals in the frequency band between 960 and 1215 megahertz (MHz). Line-of-visibility between the aircraft and ground station is required. An interrogator (airborne) initiates an exchange by transmitting a pulse pair, on an assigned 'channel', to the transponder ground station. The channel assignment specifies the carrier frequency and the spacing between the pulses. After a known delay, the transponder replies by transmitting a pulse pair on a frequency that is offset from the interrogation frequency by 63 MHz and having specified separation.
 
@@ -85,3 +87,19 @@ Precision DME (DME/P), a component of the Microwave Landing System, is assigned 
 [Distance Measuring Equipment](https://youtu.be/wMmooAYr9sw?si=bqWSsvgKMyMLXZvk)
 
 [DME](https://youtu.be/CEpoCVGk1UQ?si=HjiNIj6QVjT1fCE7)
+
+
+
+# VHF Omnidirectional Range
+
+------------------------------------------------------------------------------------------------------------
+
+Very High Frequency Omnirange Station (VOR)[1] is a type of short-range radio navigation system for aircraft, enabling aircraft with a receiving unit to determine its position and stay on course by receiving radio signals transmitted by a network of fixed ground radio beacons. It uses frequencies in the very high frequency (VHF) band from 108.00 to 117.95 MHz. Developed in the United States beginning in 1937 and deployed by 1946, VOR became the standard air navigational system in the world,[2][3] used by both commercial and general aviation, until supplanted by satellite navigation systems such as GPS in the early 21st century. As such, VOR stations are being gradually decommissioned.[4][5] In 2000 there were about 3,000 VOR stations operating around the world, including 1,033 in the US, but by 2013 the number in the US had been reduced to 967.[6] The United States is decommissioning approximately half of its VOR stations and other legacy navigation aids as part of a move to performance-based navigation, while still retaining a "Minimum Operational Network" of VOR stations as a backup to GPS.[7] In 2015, the UK planned to reduce the number of stations from 44 to 19 by 2020.[4]
+
+A VOR ground station uses a specialized antenna system to transmit both an amplitude modulated and a frequency modulated signal. Both modulations are done with a 30 Hz signal, but the phase is different. The phase of one of the modulation signals is dependent on the direction of transmission, while the phase of the other modulation signal is not, in order to serve as a reference. The receiver will demodulate both signals, and measure the phase difference. The phase difference is indicative of the bearing from the VOR station to the receiver relative to magnetic north. This line of position is called the VOR "radial".
+
+The intersection of radials from two different VOR stations can be used to fix the position of the aircraft, as in earlier radio direction finding (RDF) systems.
+
+VOR stations are fairly short range: the signals are line-of-sight between transmitter and receiver and are useful for up to 200 nautical miles (370 kilometres). Each station broadcasts a VHF radio composite signal including the mentioned navigation and reference signal, station's identifier and voice, if so equipped. The station's identifier is typically a three-letter string in Morse code. The voice signal, if used, is usually the station name, in-flight recorded advisories, or live flight service broadcasts.
+
+A VORTAC is a radio-based navigational aid for aircraft pilots consisting of a co-located VHF omnidirectional range and a tactical air navigation system (TACAN) beacon. Both types of beacons provide pilots azimuth information, but the VOR system is generally used by civil aircraft and the TACAN system by military aircraft. However, the TACAN distance measuring equipment is also used for civil purposes because civil DME equipment is built to match the military DME specifications. Most VOR installations in the United States are VORTACs. The system was designed and developed by the Cardion Corporation. The Research, Development, Test, and Evaluation (RDT&E) contract was awarded 28 December 1981.[8]
