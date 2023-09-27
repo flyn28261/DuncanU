@@ -10,19 +10,19 @@ This will be used as a location to house open source information to help teach n
 
 ------------------------------------------------------------------------------------------------------------
 
-**DME** [Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/DME#Distance-measuring-Equipment)
+**DME** [Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#Distance-measuring-Equipment)
 
 ------------------------------------------------------------------------------------------------------------
 
-**Compass** [Compass](https://github.com/flyn28261/DuncanU/tree/Compass#Compass)
+**Compass** [Compass](https://github.com/flyn28261/DuncanU/tree/main/Compass#Compass)
 
 ------------------------------------------------------------------------------------------------------------
 
-**VOR** [VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/VOR#VHF-Omnidirectional-Range)
+**VOR** [VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/main/VOR#VHF-Omnidirectional-Range)
 
 ------------------------------------------------------------------------------------------------------------
 
-**Transponder** [Transponder](https://github.com/flyn28261/DuncanU/tree/ATC#Transponder)
+**Transponder** [Transponder](https://github.com/flyn28261/DuncanU/tree/main/ATC#Transponder)
 
 ------------------------------------------------------------------------------------------------------------
 
