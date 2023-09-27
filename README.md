@@ -6,23 +6,23 @@ This will be used as a location to house open source information to help teach n
 # Table of Contents
 ------------------------------------------------------------------------------------------------------------
 
-**ADF** [Automatic direction finder](https://github.com/flyn28261/DuncanU/tree/main/ADF#automatic-direction-finder)
+**ADF** [Automatic direction finder](https://github.com/flyn28261/DuncanU/blob/main/ADF/README.md#automatic-direction-finder)
 
 ------------------------------------------------------------------------------------------------------------
 
-**DME** [Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#Distance-measuring-Equipment)
+**DME** [Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#distance-measuring--equipment)
 
 ------------------------------------------------------------------------------------------------------------
 
-**Compass** [Compass](https://github.com/flyn28261/DuncanU/tree/main/Compass#Compass)
+**Compass** [Compass](https://github.com/flyn28261/DuncanU/tree/main/Compass#compass)
 
 ------------------------------------------------------------------------------------------------------------
 
-**VOR** [VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/main/VOR#VHF-Omnidirectional-Range)
+**VOR** [VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/main/VOR#vhf-omnidirectional-range)
 
 ------------------------------------------------------------------------------------------------------------
 
-**Transponder** [Transponder](https://github.com/flyn28261/DuncanU/tree/main/ATC#Transponder)
+**Transponder** [Transponder](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder)
 
 ------------------------------------------------------------------------------------------------------------
 
