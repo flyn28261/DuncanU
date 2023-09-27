@@ -7,6 +7,8 @@
 
 [ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#adsb)
 
+[ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#adsb-in)
+
 [More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#more-reading-5)
 
 [Videos](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Videos-5)
@@ -68,6 +70,8 @@ Inexpensive ground stations (compared to radar) are constructed in remote and ob
 For traffic separation and control, ADS-B has several advantages over conventional ground-based radar. The first is the entire airspace can be covered with a much lower expense. The aging ATC radar system that is in place is expensive to maintain and replace. Additionally, ADS-B provides more accurate information since the vector state is generated from the aircraft with the help of GPS satellites. Weather is a greatly reduced factor with ADS-B. Ultra-high frequency GPS transmissions are not affected. Increased positioning accuracy allows for higher density traffic flow and landing approaches, an obvious requirement to operate more aircraft in and out of the same number of facilities. The higher degree of control available also enables routing for fewer weather delays and optimal fuel burn rates. Collision avoidance is expanded to include runway incursion from other aircraft and support vehicles on the surface of an airport.
 
 ![](ADSB.JPG)
+
+## ADS-B IN
 
 ADS-B IN offers features not available in TCAS. Equipped aircraft are able to receive abundant data to enhance situational awareness. Traffic information services-broadcast (TIS-B) supply traffic information from non-ADS-B aircraft and ADS-B aircraft on a different frequency. Ground radar monitoring of surface targets, and any traffic data in the linked network of ground stations is sent via ADS-B IN to the flight deck. This provides a more complete picture than air-to-air only collision avoidance. Flight information services-broadcast (FIS-B) are also received by ADS-B IN. Weather text and graphics, ATIS information, and NOTAMS are able to be received in aircraft that have 987 UAT capability. 
 
