@@ -1,4 +1,14 @@
+------------------------------------------------------------------------------------------------------------
+
 # VHF Omnidirectional Range
+
+[Operation](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#Operation)
+
+[Testing](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#Testing)
+
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#more-reading-4)
+
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#Videos-4)
 
 ------------------------------------------------------------------------------------------------------------
 
