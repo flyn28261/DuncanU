@@ -100,11 +100,11 @@ Precision DME (DME/P), a component of the Microwave Landing System, is assigned 
 
 The magnetic compass is a direction finding instrument that has been used for navigation for hundreds of years. It is a simple instrument that takes advantage of the earth’s magnetic field.
 
-![](compass/earths--magnetic-field.jpg)
+![](Compass/earths--magnetic-field.jpg)
 
 The magnetic north pole is very close to the geographic North Pole of the globe, but they are not the same. An ordinary permanent magnet that is free to do so, aligns itself with the direction of the earth’s magnetic field. Upon this principle, an instrument is constructed that the pilot can reference for directional orientation. Permanent magnets are attached under a float that is mounted on a pivot so it is free to rotate in the horizontal plane. As such, the magnets align with the earth’s magnetic field. A numerical compass card, usually graduated in 5° increments, is constructed around the perimeter of the float. It serves as the instrument dial.
 
-![](compass/compass.jpg)
+![](Compass/compass.jpg)
 
 The entire assembly is enclosed in a sealed case that is filled with a liquid similar to kerosene. This dampens vibration and oscillation of the moving float assembly and decreases friction.
 
@@ -112,7 +112,7 @@ There are accuracy issues associated with using a magnetic compass. The main mag
 
 magnetic deviation. The two set-screws are on the face of the instrument and are labeled N-S and E-W. They position the small magnets to counterbalance the local magnetic influences acting on the main compass magnets.
 
-![](compass/compass2.jpg)
+![](Compass/compass2.jpg)
 
 The process for knowing how to adjust for deviation is known as swinging the compass. 
 
@@ -120,17 +120,17 @@ The process for knowing how to adjust for deviation is known as swinging the com
 
 An elaborate and very accurate method of direction indication has been developed that combines the use of a gyro, a magnetic compass, and a remote indicating system.  It is called the slaved gyro compass or flux gate compass system. 
 
-![](compass/compass3.jpg)
+![](Compass/compass3.jpg)
 
 A gyroscopic direction indicator is augmented by magnetic direction information from a remotely located compass. The type of compass used is called a flux valve or flux gate compass. It consists of a very magnetically permeable circular segmented core frame or spider. The earth’s magnetic field flows through this iron core and varies its distribution through segments of the core as the flux valve is rotated via the movement of the aircraft. Pickup coil windings are located on each of the core’s spider legs that are positioned 120° apart.
 
 The distribution of earth’s magnetic field flowing through the legs is unique for every directional orientation of the aircraft. A coil is placed in the center of the core and is energized by AC current. As the AC flow passes through zero while changing direction, the earth’s magnetic field is allowed to flow through the core. Then, it is blocked or gated as the magnetic field of the core current flow builds to its peak again. The cycle is repeated at the frequency of the AC supplied to the excitation coil. The result is repeated flow and nonflow of the earth’s flux across the pickup coils. During each cycle, a unique voltage is induced in each of the pickup coils reflecting the orientation of the aircraft in the earth’s magnetic field.
 
-![](compass/fluxValve.JPG)
+![](Compass/fluxValve.JPG)
 
 The electricity that flows from each of the pickup coils is transmitted out of the flux valve via wires into a second unit. It contains an autosyn transmitter, directional gyro, an amplifier, and a triple wound stator that is similar to that found in the indicator of a synchro system. Unique voltage is induced in the center rotor of this stator which reflects the voltage received from the flux valve pickup coils sent through the stator coils. It is amplified and used to augment the position of the DG. The gyro is wired to be the rotor of an autosyn synchro system, which transmits the position of the gyro into an indicator unit located in the cockpit. In the indicator, a vertical compass card is rotated against a small airplane type lubber line like that in a vertical magnetic compass.
 
-![](compass/compass_system.jpg)
+![](Compass/compass_system.jpg)
 
 ## Solid State Magnetometers
 
