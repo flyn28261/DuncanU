@@ -8,11 +8,11 @@ This will be used as a location to house open source information to help teach n
 
 **ADF**
 
-[Automatic direction finder](https://github.com/flyn28261/DuncanU/tree/main#automatic-direction-finder)
+[Automatic direction finder](https://github.com/flyn28261/DuncanU/tree/main/ADF#automatic-direction-finder)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ADF#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos)
 
 ------------------------------------------------------------------------------------------------------------
 
