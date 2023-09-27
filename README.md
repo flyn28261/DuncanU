@@ -498,9 +498,9 @@ When a transponder selector is set on ALT, the digital pulse message sent in res
 
 ### More Reading
 
-[Mode A and Mode C Codes](Transponder/Mode_A_and_Mode_C_Codes.pdf)http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm
+[Mode A and Mode C Codes](ATC/Mode_A_and_Mode_C_Codes.pdf)   http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm
 
-[Radar Beacon Transponder](Transponder/Aviation_Maintenance_Technician_Handbook–Airframe,_Volume_2.pdf)
+[Radar Beacon Transponder](ATC/Aviation_Maintenance_Technician_Handbook–Airframe,_Volume_2.pdf)
 
 ### Videos
 
