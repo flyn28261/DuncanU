@@ -6,75 +6,23 @@ This will be used as a location to house open source information to help teach n
 # Table of Contents
 ------------------------------------------------------------------------------------------------------------
 
-**ADF**
-
-[Automatic direction finder](https://github.com/flyn28261/DuncanU/tree/main/ADF#automatic-direction-finder)
-
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ADF#more-reading)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos)
+**ADF** [Automatic direction finder](https://github.com/flyn28261/DuncanU/tree/main/ADF#automatic-direction-finder)
 
 ------------------------------------------------------------------------------------------------------------
 
-**DME**
-
-[Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/DME#Distance-measuring-Equipment)
-
-[Operation](https://github.com/flyn28261/DuncanU/tree/DME#Operation)
-
-[Distance calculation](https://github.com/flyn28261/DuncanU/tree/DME#Distance-calculation)
-
-[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/DME#Radio-frequency-and-modulation-data)
-
-[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/DME#Frequency-usagechannelization)
-
-[More Reading](https://github.com/flyn28261/DuncanU/blob/DME/DME#more-reading-2)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/DME/DME#Videos-2)
+**DME** [Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/DME#Distance-measuring-Equipment)
 
 ------------------------------------------------------------------------------------------------------------
 
-**Compass**
-
-[Compass](https://github.com/flyn28261/DuncanU/tree/Compass#Compass)
-
-[Magnetic Compass](https://github.com/flyn28261/DuncanU/tree/Compass#Magnetic-Compass)
-
-[Remote Indicating Slaved Gyro Compass (Flux Gate Compass)](https://github.com/flyn28261/DuncanU/tree/Compass#Remote-Indicating-Slaved-Gyro-Compass-Flux-Gate-Compass)
-
-[Solid State Magnetometers](https://github.com/flyn28261/DuncanU/tree/Compass#Solid-State-Magnetometers)
-
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/Compass#more-reading-3)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/Compass#Videos-3)
+**Compass** [Compass](https://github.com/flyn28261/DuncanU/tree/Compass#Compass)
 
 ------------------------------------------------------------------------------------------------------------
 
-**VOR**
-
-[VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/VOR#VHF-Omnidirectional-Range)
-
-[Operation](https://github.com/flyn28261/DuncanU/tree/VOR#Operation)
-
-[Testing](https://github.com/flyn28261/DuncanU/tree/VOR#Testing)
-
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/VOR#more-reading-4)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/VOR#Videos-4)
+**VOR** [VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/VOR#VHF-Omnidirectional-Range)
 
 ------------------------------------------------------------------------------------------------------------
 
-**Transponder**
-
-[Transponder](https://github.com/flyn28261/DuncanU/tree/ATC#Transponder)
-
-[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/tree/ATC#Transponder-Tests-and-Inspections)
-
-[Altitude Encoders](https://github.com/flyn28261/DuncanU/tree/ATC#Altitude-Encoders)
-
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC#more-reading-5)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ATC#Videos-5)
+**Transponder** [Transponder](https://github.com/flyn28261/DuncanU/tree/ATC#Transponder)
 
 ------------------------------------------------------------------------------------------------------------
 
