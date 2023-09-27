@@ -68,6 +68,10 @@ This will be used as a location to house open source information to help teach n
 
 [Transponder](https://github.com/flyn28261/DuncanU/tree/main#Transponder)
 
+[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/tree/main#Transponder-Tests-and-Inspections)
+
+[Altitude Encoders](https://github.com/flyn28261/DuncanU/tree/main#Altitude-Encoders)
+
 [More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-5)
 
 [Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-5)
@@ -486,7 +490,7 @@ Title 14 of the Code of Federal Regulations (CFR) part 91, section 91.413 states
 
 Operating a transponder in a hangar or on the ramp does not immunize it from interrogation and reply. Transmission of certain codes reserved for emergencies or military activity must be avoided. The procedure to select a code during ground operation is to do so with the transponder in the OFF or STANDBY mode to avoid inadvertent transmission. Code 0000 is reserved for military use and is a transmittable code. Code 7500 is used in a hijack situation and 7600 and 7700 are also reserved for emergency use. Even the inadvertent transmission of code 1200 reserved for VFR flight not under ATC direction could result in evasion action. All signals received from a radar beacon transponder are taken seriously by ATC.
 
-##Altitude Encoders
+## Altitude Encoders
 
 Altitude encoders convert the aircraft’s pressure altitude into a code sent by the transponder to ATC. Increments of 100 feet are usually reported. Encoders have varied over the years. Some are built into the altimeter instrument used in the instrument panel and connected by wires to the transponder. Others are mounted out of sight on an avionics rack or similar out of the way place. These are known as blind encoders. Encoding information could also come from an air data computer (ADC).
 
