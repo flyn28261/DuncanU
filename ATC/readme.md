@@ -1,4 +1,18 @@
+-----------------------------------------------------------------------------------------------------------
 # Transponder
+
+[Operation](https://github.com/flyn28261/DuncanU/tree/DME#Operation)
+
+[Distance calculation](https://github.com/flyn28261/DuncanU/tree/DME#Distance-calculation)
+
+[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/DME#Radio-frequency-and-modulation-data)
+
+[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/DME#Frequency-usagechannelization)
+
+[More Reading](https://github.com/flyn28261/DuncanU/blob/DME/README.md#more-reading-2)
+
+[Videos](https://github.com/flyn28261/DuncanU/blob/DME/README.md#Videos-2)
+
 -----------------------------------------------------------------------------------------------------------
 
 A transponder (short for transmitter-responder and sometimes abbreviated to XPDR, XPNDR, TPDR or TP) is an electronic device that produces a response when it receives a radio-frequency interrogation. A transponder, provides positive identification and location of an aircraft on the radar screens of ATC. 
