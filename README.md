@@ -6,31 +6,17 @@ This will be used as a location to house open source information to help teach n
 # Table of Contents
 ------------------------------------------------------------------------------------------------------------
 
-**ADF** [Automatic direction finder](https://github.com/flyn28261/DuncanU/blob/main/ADF/README.md#automatic-direction-finder)
+**[(ADF) Automatic direction finder](https://github.com/flyn28261/DuncanU/blob/main/ADF/README.md#automatic-direction-finder)**
 
-------------------------------------------------------------------------------------------------------------
+**[(DME)Distance measuring Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#distance-measuring--equipment)**
 
-**DME** [Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#distance-measuring--equipment)
+**[Compass](https://github.com/flyn28261/DuncanU/tree/main/Compass#compass)**
 
-------------------------------------------------------------------------------------------------------------
+**[VOR](https://github.com/flyn28261/DuncanU/tree/main/VOR#vhf-omnidirectional-range)**
 
-**Compass** [Compass](https://github.com/flyn28261/DuncanU/tree/main/Compass#compass)
+**[Transponder](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder)**
 
-------------------------------------------------------------------------------------------------------------
-
-**VOR** [VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/main/VOR#vhf-omnidirectional-range)
-
-------------------------------------------------------------------------------------------------------------
-
-**Transponder** [Transponder](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder)
-
-------------------------------------------------------------------------------------------------------------
-
-[TCAS](https://github.com/flyn28261/DuncanU/tree/main#TCAS)
-
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-6)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-6)
+**[(TCAS)Traffic collision avoidance system](https://github.com/flyn28261/DuncanU/tree/main/TCAS#traffic-collision-avoidance-systems-tcas)**
 
 ------------------------------------------------------------------------------------------------------------
 
