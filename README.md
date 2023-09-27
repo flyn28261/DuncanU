@@ -32,7 +32,7 @@ ADF receivers can be used to determine current position, track inbound and outbo
 
 
 -----------------------------------------------------------------------------------------------------------
-# Distance Musering Equipment 
+# Distance measuring  Equipment 
 ------------------------------------------------------------------------------------------------------------
 
 In aviation, distance measuring equipment (DME) is a radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals in the frequency band between 960 and 1215 megahertz (MHz). Line-of-visibility between the aircraft and ground station is required. An interrogator (airborne) initiates an exchange by transmitting a pulse pair, on an assigned 'channel', to the transponder ground station. The channel assignment specifies the carrier frequency and the spacing between the pulses. After a known delay, the transponder replies by transmitting a pulse pair on a frequency that is offset from the interrogation frequency by 63 MHz and having specified separation.
