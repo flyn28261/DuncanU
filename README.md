@@ -8,15 +8,15 @@ This will be used as a location to house open source information to help teach n
 
 **[(ADF) Automatic direction finder](https://github.com/flyn28261/DuncanU/blob/main/ADF/README.md#automatic-direction-finder)**
 
-**[(DME)Distance measuring Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#distance-measuring--equipment)**
+**[(DME) Distance measuring Equipment](https://github.com/flyn28261/DuncanU/tree/main/DME#distance-measuring--equipment)**
 
 **[Compass](https://github.com/flyn28261/DuncanU/tree/main/Compass#compass)**
 
-**[VOR](https://github.com/flyn28261/DuncanU/tree/main/VOR#vhf-omnidirectional-range)**
+**[(VOR) VHF omnidirectional range](https://github.com/flyn28261/DuncanU/tree/main/VOR#vhf-omnidirectional-range)**
 
 **[Transponder](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder)**
 
-**[(TCAS)Traffic collision avoidance system](https://github.com/flyn28261/DuncanU/tree/main/TCAS#traffic-collision-avoidance-systems-tcas)**
+**[(TCAS) Traffic collision avoidance system](https://github.com/flyn28261/DuncanU/tree/main/TCAS#traffic-collision-avoidance-systems-tcas)**
 
 ------------------------------------------------------------------------------------------------------------
 
