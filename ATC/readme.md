@@ -1,17 +1,15 @@
 -----------------------------------------------------------------------------------------------------------
 # Transponder
 
-[Operation](https://github.com/flyn28261/DuncanU/tree/DME#Operation)
+[Transponder](https://github.com/flyn28261/DuncanU/tree/main#Transponder)
 
-[Distance calculation](https://github.com/flyn28261/DuncanU/tree/DME#Distance-calculation)
+[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/tree/main#Transponder-Tests-and-Inspections)
 
-[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/DME#Radio-frequency-and-modulation-data)
+[Altitude Encoders](https://github.com/flyn28261/DuncanU/tree/main#Altitude-Encoders)
 
-[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/DME#Frequency-usagechannelization)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-5)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/DME/README.md#more-reading-2)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/DME/README.md#Videos-2)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-5)
 
 -----------------------------------------------------------------------------------------------------------
 
