@@ -28,53 +28,53 @@ This will be used as a location to house open source information to help teach n
 
 [Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/DME#Frequency-usagechannelization)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/DME/README.md#more-reading-2)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/DME/DME#more-reading-2)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/DME/README.md#Videos-2)
+[Videos](https://github.com/flyn28261/DuncanU/blob/DME/DME#Videos-2)
 
 ------------------------------------------------------------------------------------------------------------
 
 **Compass**
 
-[Compass](https://github.com/flyn28261/DuncanU/tree/main#Compass)
+[Compass](https://github.com/flyn28261/DuncanU/tree/Compass#Compass)
 
-[Magnetic Compass](https://github.com/flyn28261/DuncanU/tree/main#Magnetic-Compass)
+[Magnetic Compass](https://github.com/flyn28261/DuncanU/tree/Compass#Magnetic-Compass)
 
-[Remote Indicating Slaved Gyro Compass (Flux Gate Compass)](https://github.com/flyn28261/DuncanU/tree/main#Remote-Indicating-Slaved-Gyro-Compass-Flux-Gate-Compass)
+[Remote Indicating Slaved Gyro Compass (Flux Gate Compass)](https://github.com/flyn28261/DuncanU/tree/Compass#Remote-Indicating-Slaved-Gyro-Compass-Flux-Gate-Compass)
 
-[Solid State Magnetometers](https://github.com/flyn28261/DuncanU/tree/main#Solid-State-Magnetometers)
+[Solid State Magnetometers](https://github.com/flyn28261/DuncanU/tree/Compass#Solid-State-Magnetometers)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-3)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/Compass#more-reading-3)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-3)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/Compass#Videos-3)
 
 ------------------------------------------------------------------------------------------------------------
 
 **VOR**
 
-[VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/main#VHF-Omnidirectional-Range)
+[VHF Omnidirectional Range](https://github.com/flyn28261/DuncanU/tree/VOR#VHF-Omnidirectional-Range)
 
-[Operation](https://github.com/flyn28261/DuncanU/tree/main#Operation)
+[Operation](https://github.com/flyn28261/DuncanU/tree/VOR#Operation)
 
-[Testing](https://github.com/flyn28261/DuncanU/tree/main#Testing)
+[Testing](https://github.com/flyn28261/DuncanU/tree/VOR#Testing)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-4)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/VOR#more-reading-4)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-4)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/VOR#Videos-4)
 
 ------------------------------------------------------------------------------------------------------------
 
 **Transponder**
 
-[Transponder](https://github.com/flyn28261/DuncanU/tree/main#Transponder)
+[Transponder](https://github.com/flyn28261/DuncanU/tree/ATC#Transponder)
 
-[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/tree/main#Transponder-Tests-and-Inspections)
+[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/tree/ATC#Transponder-Tests-and-Inspections)
 
-[Altitude Encoders](https://github.com/flyn28261/DuncanU/tree/main#Altitude-Encoders)
+[Altitude Encoders](https://github.com/flyn28261/DuncanU/tree/ATC#Altitude-Encoders)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-5)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC#more-reading-5)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-5)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/ATC#Videos-5)
 
 ------------------------------------------------------------------------------------------------------------
 
