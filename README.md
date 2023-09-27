@@ -453,7 +453,7 @@ Before using a VOR indicator for the first time, it can be tested and calibrated
 A transponder (short for transmitter-responder and sometimes abbreviated to XPDR, XPNDR, TPDR or TP) is an electronic device that produces a response when it receives a radio-frequency interrogation. A transponder, provides positive identification and location of an aircraft on the radar screens of ATC. 
 
 
-![](ATC/transponder.jpg)
+![](ATC/Transponder.JPG)
 
 For each aircraft equipped with an altitude encoder, the transponder also provides the pressure altitude of the aircraft to be displayed adjacent to the on-screen blip that represents the aircraft.
 
@@ -461,7 +461,7 @@ For each aircraft equipped with an altitude encoder, the transponder also provid
 
 Radar capabilities at airports vary. Generally, two types of radar are used by air traffic control (ATC). The primary radar transmits directional UHF or SHF radio waves sequentially in all directions. When the radio waves encounter an aircraft, part of those waves reflect back to a ground antenna. Calculations are made in a receiver to determine the direction and distance of the aircraft from the transmitter. A blip or target representing the aircraft is displayed on a radar screen also known as a plan position indicator (PPI). The azimuth direction and scaled distance from the tower are presented giving controllers a two dimensional fix on the aircraft.
 
-![](ATC/Radar.jpg)
+![](ATC/Radar.JPG)
 
 A secondary surveillance radar (SSR) is used by ATC to verify the aircraft’s position and to add the third dimension of altitude to its location. SSR uses an active transponder (beacon) to transmit a response to an interrogation by a secondary radar. This response most often includes the aircraft's pressure altitude and a 4-digit octal identifier.
 
@@ -473,7 +473,7 @@ Mode 3/A pulses, as they are known, aid in confirming the location of the aircra
 
 To gain altitude clarification, the transponder control must be placed in the ALT or Mode C position. The signal transmitted back to ATC in response to pulse interrogation is then modified with a code that places the pressure altitude of the aircraft next to the target symbol on the radar screen. The transponder gets the pressure altitude of the aircraft from an altitude encoder that is electrically connected to the transponder. Typical aircraft transponder antennas are illustrated in Figure 
 
-![](ATC/transponder2.jpg)
+![](ATC/transponder2.JPG)
 
 The ATC/aircraft transponder system described is known as Air Traffic Control Radar Beacon System (ATCRBS). To increase safety, Mode S altitude response has been developed. With Mode S, each aircraft is pre-assigned a unique identity code that displays along with its pressure altitude on ATC radar when the transponder responds to SSR interrogation.
 
@@ -498,7 +498,7 @@ When a transponder selector is set on ALT, the digital pulse message sent in res
 
 ### More Reading
 
-[Mode A and Mode C Codes](ATC/Mode_A_and_Mode_C_Codes.pdf)   http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm
+[Mode A and Mode C Codes](ATC/Mode_A_and_Mode_C_Codes.pdf)http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm
 
 [Radar Beacon Transponder](ATC/Aviation_Maintenance_Technician_Handbook–Airframe,_Volume_2.pdf)
 
