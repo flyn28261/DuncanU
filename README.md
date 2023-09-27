@@ -145,7 +145,7 @@ Solid state magnetometers are used on many modern aircraft. They have no moving 
 [Gyro Magnetic Compass Flux Valve](https://youtu.be/nRz3fbaIxxQ?si=SYe-jsu7AIsZ8beH)
 
 -----------------------------------------------------------------------------------------------------------
-# VHF Omnidirectional Range (VOR)
+# VHF Omnidirectional Range
 
 ------------------------------------------------------------------------------------------------------------
 
