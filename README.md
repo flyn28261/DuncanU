@@ -18,19 +18,19 @@ This will be used as a location to house open source information to help teach n
 
 **DME**
 
-[Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/main#Distance-measuring-Equipment)
+[Distance measuring  Equipment](https://github.com/flyn28261/DuncanU/tree/DME#Distance-measuring-Equipment)
 
-[Operation](https://github.com/flyn28261/DuncanU/tree/main#Operation)
+[Operation](https://github.com/flyn28261/DuncanU/tree/DME#Operation)
 
-[Distance calculation](https://github.com/flyn28261/DuncanU/tree/main#Distance-calculation)
+[Distance calculation](https://github.com/flyn28261/DuncanU/tree/DME#Distance-calculation)
 
-[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/main#Radio-frequency-and-modulation-data)
+[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/DME#Radio-frequency-and-modulation-data)
 
-[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/main#Frequency-usagechannelization)
+[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/DME#Frequency-usagechannelization)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-2)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/DME/README.md#more-reading-2)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-2)
+[Videos](https://github.com/flyn28261/DuncanU/blob/DME/README.md#Videos-2)
 
 ------------------------------------------------------------------------------------------------------------
 
