@@ -5,9 +5,11 @@
 
 [Altitude Encoders](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Altitude-Encoders)
 
-[ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#adsb)
+**[ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b)**
 
-[ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#adsb-in)
+[ADS-B OUT](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b-out)
+
+[ADS-B IN](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b-in)
 
 [More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#more-reading-5)
 
@@ -59,11 +61,13 @@ Altitude encoders convert the aircraft’s pressure altitude into a code sent by
 
 When a transponder selector is set on ALT, the digital pulse message sent in response to the secondary surveillance radar interrogation becomes the digital representation of the pressure altitude of the aircraft. 
 
-# ADSB
+# ADS-B
 
 ADS-B is active in the United States and around the world. ADS-B is considered in two segments: ADS-B OUT and ADS-B IN. ADS-B OUT combines the positioning information available from a GPS receiver with on-board flight status information, i.e., location including altitude, velocity, and time. It then broadcasts this information to other ADS-B equipped aircraft and ground stations. 
 
 Two different frequencies are used to carry these broadcasts with data link capability. The first is an expanded use of the 1090 MHz Mode-S transponder protocol known as 1090 ES. The second, largely being introduced as a new broadband solution for general aviation implementation of ADS-B, is at 978 MHz. A 978 universal access transceiver (UAT) is used to accomplish this. An omni-directional antenna is required in addition to the GPS antenna and receiver. Airborne receivers of an ADS-B broadcast use the information to plot the location and movement of the transmitting aircraft on a flight deck display similar to TCAS. 
+
+### ADS-B OUT
 
 Inexpensive ground stations (compared to radar) are constructed in remote and obstructed areas to proliferate ADS-B. Ground stations share information from airborne ADS-B broadcasts with other ground stations that are part of the air traffic management system (ATMS). Data is transferred with no need for human acknowledgement. Microwave and satellite transmissions are used to link the network.
 
@@ -71,7 +75,7 @@ For traffic separation and control, ADS-B has several advantages over convention
 
 ![](ADSB.JPG)
 
-## ADS-B IN
+### ADS-B IN
 
 ADS-B IN offers features not available in TCAS. Equipped aircraft are able to receive abundant data to enhance situational awareness. Traffic information services-broadcast (TIS-B) supply traffic information from non-ADS-B aircraft and ADS-B aircraft on a different frequency. Ground radar monitoring of surface targets, and any traffic data in the linked network of ground stations is sent via ADS-B IN to the flight deck. This provides a more complete picture than air-to-air only collision avoidance. Flight information services-broadcast (FIS-B) are also received by ADS-B IN. Weather text and graphics, ATIS information, and NOTAMS are able to be received in aircraft that have 987 UAT capability. 
 
