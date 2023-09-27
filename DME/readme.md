@@ -1,4 +1,18 @@
+-------------------------------------------------------------------------------------------------------------
 # Distance Measuring  Equipment 
+
+[Operation](https://github.com/flyn28261/DuncanU/tree/main/DME#Operation)
+
+[Distance calculation](https://github.com/flyn28261/DuncanU/tree/main/DME#Distance-calculation)
+
+[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/main/DME#Radio-frequency-and-modulation-data)
+
+[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/main/DME#Frequency-usagechannelization)
+
+[More Reading](https://github.com/flyn28261/DuncanU/tree/main/DME#more-reading-2)
+
+[Videos](https://github.com/flyn28261/DuncanU/tree/main/DME#Videos-2)
+
 ------------------------------------------------------------------------------------------------------------
 
 In aviation, distance measuring equipment (DME) is a radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals in the frequency band between 960 and 1215 megahertz (MHz). Line-of-visibility between the aircraft and ground station is required. An interrogator (airborne) initiates an exchange by transmitting a pulse pair, on an assigned 'channel', to the transponder ground station. The channel assignment specifies the carrier frequency and the spacing between the pulses. After a known delay, the transponder replies by transmitting a pulse pair on a frequency that is offset from the interrogation frequency by 63 MHz and having specified separation.
