@@ -1,15 +1,13 @@
 -----------------------------------------------------------------------------------------------------------
 # Transponder
 
-[Transponder](https://github.com/flyn28261/DuncanU/tree/main#Transponder)
+[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder-tests-and-inspections)
 
-[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/tree/main#Transponder-Tests-and-Inspections)
+[Altitude Encoders](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Altitude-Encoders)
 
-[Altitude Encoders](https://github.com/flyn28261/DuncanU/tree/main#Altitude-Encoders)
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#more-reading-5)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/README.md#more-reading-5)
-
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/README.md#Videos-5)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Videos-5)
 
 -----------------------------------------------------------------------------------------------------------
 
