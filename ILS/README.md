@@ -1,4 +1,4 @@
-# **Insterment Landing System (ILS)**
+# **Insterments Landing System (ILS)**
 
 An ILS is used to land an aircraft when visibility is poor. This radio navigation system guides the aircraft down a slope to the touch down area on the runway. Multiple radio transmissions are used that enable an exact approach to landing with an ILS. A localizer is one of the radio transmissions. It is used to provide horizontal guidance to the center line of the runway. A separate glideslope broadcast provides vertical guidance of the aircraft down the proper slope to the touch down point. Compass locator transmissions for outer and middle approach marker beacons aid the pilot in intercepting the approach navigational aid system. Marker beacons provide distance from-the-runway information. Together, all of these radio signals make an ILS a very accurate and reliable means for landing aircraft. 
 
