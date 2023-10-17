@@ -22,7 +22,7 @@ This will be used as a location to house open source information to help teach n
 
 ****WIP****
 
-[ILS](https://github.com/flyn28261/DuncanU/tree/main#ILS)
+[ILS](https://github.com/flyn28261/DuncanU/tree/main/ILS#insterments-landing-system-ils)
 
 [INS](https://github.com/flyn28261/DuncanU/tree/main#INS)
 
