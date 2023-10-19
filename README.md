@@ -26,7 +26,7 @@ This will be used as a location to house open source information to help teach n
 
 
 
-[INS](https://github.com/flyn28261/DuncanU/tree/main#INS)
+[Inertial navigation system](https://github.com/flyn28261/DuncanU/tree/main/INS#inertial-navigation-system)
 
 [AHRS](https://github.com/flyn28261/DuncanU/tree/main#AHRS)
 
