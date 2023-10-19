@@ -2,6 +2,8 @@
 
 An ILS is used to land an aircraft when visibility is poor. This radio navigation system guides the aircraft down a slope to the touch down area on the runway. Multiple radio transmissions are used that enable an exact approach to landing with an ILS. A localizer is one of the radio transmissions. It is used to provide horizontal guidance to the center line of the runway. A separate glideslope broadcast provides vertical guidance of the aircraft down the proper slope to the touch down point. Compass locator transmissions for outer and middle approach marker beacons aid the pilot in intercepting the approach navigational aid system. Marker beacons provide distance from-the-runway information. Together, all of these radio signals make an ILS a very accurate and reliable means for landing aircraft. 
 
+[](ILS/ILS.JPG)
+
 ## **Localizer (LOC)** 
 
 The localizer broadcast is a VHF broadcast in the lower range of the VOR frequencies (108 MHz–111.95 MHz) on odd frequencies only. Two modulated signals are produced from a horizontally polarized antenna complex beyond the far end of the approach runway. They create an expanding field that is 21 ⁄2° wide (about 1,500 feet) 5 miles from the runway. The field tapers to runway width near the landing threshold. The left side of the approach area is filled with a VHF carrier wave modulated with a 90 Hz signal. The right side of the approach contains a 150 MHz modulated signal. The aircraft’s VOR receiver is tuned to the localizer VHF frequency that can be found on published approach plates and aeronautical charts.
