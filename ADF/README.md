@@ -3,7 +3,9 @@
 
 [More Reading](https://github.com/flyn28261/DuncanU/blob/main/ADF#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos)
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos) 
+
+[ADF Simulator]((https://github.com/flyn28261/DuncanU/blob/main/ADF#Simulator)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -30,3 +32,8 @@ ADF receivers can be used to determine current position, track inbound and outbo
 
 ### Videos
 [Understanding ADF](https://youtu.be/QQitucLrC8U?si=UZUXvmXRAXL9OD61)
+
+### Online Simulators
+
+[ADF Simulator](http://www.luizmonteiro.com/Learning_ADF_Sim.aspx)http://www.luizmonteiro.com/Learning_ADF_Sim.aspx
+
