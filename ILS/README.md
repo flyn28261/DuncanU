@@ -6,9 +6,15 @@ An ILS is used to land an aircraft when visibility is poor. This radio navigatio
 
 ## **Localizer (LOC)** 
 
+[](ILS/LOC/LOC-ant.jpg)
+
 The localizer broadcast is a VHF broadcast in the lower range of the VOR frequencies (108 MHz–111.95 MHz) on odd frequencies only. Two modulated signals are produced from a horizontally polarized antenna complex beyond the far end of the approach runway. They create an expanding field that is 21 ⁄2° wide (about 1,500 feet) 5 miles from the runway. The field tapers to runway width near the landing threshold. The left side of the approach area is filled with a VHF carrier wave modulated with a 90 Hz signal. The right side of the approach contains a 150 MHz modulated signal. The aircraft’s VOR receiver is tuned to the localizer VHF frequency that can be found on published approach plates and aeronautical charts.
 
+[](ILS/LOC/PFD-ND-established.png)
+
 The circuitry specific to standard VOR reception is inactive while the receiver uses localizer circuitry and components common to both. The signals received are passed through filters and rectified into DC to drive the course deviation indicator. If the aircraft receives a 150 Hz signal, the CDI of the VOR/ILS display deflects to the left. This indicates that the runway is to the left. The pilot must correct course with. a turn to the left. This centers course deviation indicator on the display and centers the aircraft with the centerline of the runway. If the 90 Hz signal is received by the VOR receiver, the CDI deflects to the right. The pilot must turn toward the right to center the CDI and the aircraft with the runway center line.
+
+[](ILS/LOC/ILS.jpg)
 
 ## **Glideslope (GS)** 
 
