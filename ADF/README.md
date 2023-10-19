@@ -5,7 +5,7 @@
 
 [Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos) 
 
-[ADF Simulator](https://github.com/flyn28261/DuncanU/blob/main/ADF#Simulator)
+[ADF Simulator](https://github.com/flyn28261/DuncanU/tree/main/ADF#online-simulators)
 
 ------------------------------------------------------------------------------------------------------------
 
