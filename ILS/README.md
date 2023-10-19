@@ -7,6 +7,8 @@
 
 [Marker Beacons](https://github.com/flyn28261/DuncanU/tree/main/ILS#marker-beacons-mb)
 
+[Distance Measuring Equipment)](https://github.com/flyn28261/DuncanU/blob/main/DME/readme.md#distance-measuring--equipment). 
+
 [More Reading](https://github.com/flyn28261/DuncanU/edit/main/ILS#more-reading)
 
 [Videos](https://github.com/flyn28261/DuncanU/edit/main/ILS#videos)
@@ -54,11 +56,11 @@ Marker beacons are the final radio transmitters used in the ILS. They transmit s
 
 A middle marker beacon is also used. It is located on approach approximately 3,500 feet from the runway. It also transmits at 75 MHz. The middle marker transmission is modulated with a 1300 Hz tone that is a series of dots and dashes so as to not be confused with the all dash tone of the outer marker. When the signal is received, it is used in the receiver to illuminate an amber-colored light on the instrument panel. 
 
-![](MB/MB.jpg)
+![](MB/MB.JPG)
 
 Some ILS approaches have an inner marker beacon that transmits a signal modulated with 3000 Hz in a series of dots only. It is placed at the land-or-go-around decision point of the approach close to the runway threshold. If present, the signal when received is used to illuminate a white light on the instrument panel. The three marker beacon lights are usually incorporated into the audio panel of a general aviation aircraft or may exist independently on a larger aircraft. Electronic display aircraft usually incorporate marker lights or indicators close to the glideslope display near attitude director indicator. 
 
-![](MB/MB2.jpg)
+![](MB/MB2.JPG)
 
 ILS radio components can be tested with an ILS test unit. Localizer, glideslope, and marker beacon signals are generated to ensure proper operation of receivers and correct display on flight deck instruments. 
 
@@ -76,4 +78,6 @@ Markers are largely being phased out and replaced by [distance measuring equipme
 
 #### Videos
 
-[How ILS Works | Instrument Landing System Explained | IFR Training](https://youtu.be/taqMkdXL3Xg?si=pf4MoAfqsBqIv1hG)https://youtu.be/taqMkdXL3Xg?si=pf4MoAfqsBqIv1hG
+[How ILS Works | Instrument Landing System Explained | IFR Training](https://youtu.be/taqMkdXL3Xg?si=pf4MoAfqsBqIv1hG)
+
+[Understanding ILS](https://youtu.be/3lU-mw9plwg?si=4WwYO7_ljJ9tK3VJ)
