@@ -3,9 +3,9 @@
 
 [Localizer](https://github.com/flyn28261/DuncanU/tree/main/ILS#localizer-loc)
 
-[Glideslope](https://github.com/flyn28261/DuncanU/edit/main/ILS#glideslope-gs)
+[Glideslope](https://github.com/flyn28261/DuncanU/tree/main/ILS#glideslope-gs)
 
-[Marker Beacons](https://github.com/flyn28261/DuncanU/edit/main/ILS#marker-beacons-mb)
+[Marker Beacons](https://github.com/flyn28261/DuncanU/tree/main/ILS#marker-beacons-mb)
 
 [More Reading](https://github.com/flyn28261/DuncanU/edit/main/ILS#more-reading)
 
