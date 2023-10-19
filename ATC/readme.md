@@ -84,7 +84,7 @@ ADS-B IN offers features not available in TCAS. Equipped aircraft are able to re
 
 ### More Reading
 
-[Mode A and Mode C Codes](Mode_A_and_Mode_C_Codes.pdf)http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm
+[Mode A and Mode C Codes](http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm)
 
 [Radar Beacon Transponder](Aviation_Maintenance_Technician_Handbook–Airframe,_Volume_2.pdf)
 
