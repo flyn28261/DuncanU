@@ -1,15 +1,15 @@
 -----------------------------------------------------------------------------------------------------------
 # **Insterments Landing System (ILS)**
 
-[Localizer](https://github.com/flyn28261/DuncanU/edit/main/ILS/README.md#localizer-loc)
+[Localizer](https://github.com/flyn28261/DuncanU/tree/main/ILS#localizer-loc)
 
-[Glideslope](https://github.com/flyn28261/DuncanU/edit/main/ILS/README.md#glideslope-gs)
+[Glideslope](https://github.com/flyn28261/DuncanU/edit/main/ILS#glideslope-gs)
 
-[Marker Beacons](https://github.com/flyn28261/DuncanU/edit/main/ILS/README.md#marker-beacons-mb)
+[Marker Beacons](https://github.com/flyn28261/DuncanU/edit/main/ILS#marker-beacons-mb)
 
-[More Reading](https://github.com/flyn28261/DuncanU/edit/main/ILS/README.md#more-reading)
+[More Reading](https://github.com/flyn28261/DuncanU/edit/main/ILS#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/edit/main/ILS/README.md#videos)
+[Videos](https://github.com/flyn28261/DuncanU/edit/main/ILS#videos)
 
 -----------------------------------------------------------------------------------------------------------
 
