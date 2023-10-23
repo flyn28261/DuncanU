@@ -1,18 +1,20 @@
 # Flight management system
 
-Navigation database
+[Navigation database](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#navigation-database)
 
-Flight plan
+[Flight plan](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#flight-plan)
 
-Position determination
+[Position determination](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#position-determination)
 
-Read More
+[Read More](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#read-more)
 
-Videos
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#videos)
 
 ---------------------------------------------------------------------------------------------------------------
 
 A flight management system (FMS) is a fundamental component of a modern aircraft’s avionics. An FMS is a specialized computer system that automates a wide variety of in-flight tasks, reducing the workload on the flight crew. A primary function is in-flight management of the flight plan. Using various sensors (such as GPS and INS often backed up by radio navigation) to determine the aircraft's position, the FMS can guide the aircraft along the flight plan. From the cockpit, the FMS is normally controlled through a Control Display Unit (CDU) which incorporates a small screen and keyboard or touchscreen. The FMS sends the flight plan for display to the Electronic Flight Instrument System (EFIS), Navigation Display (ND), or Multifunction Display (MFD). The FMS can be summarized as being a dual system consisting of the Flight Management Computer (FMC), CDU and a cross talk bus.
+
+![](FMS.jpg)
 
 ### Navigation database
 All FMSs contain a navigation database. The navigation database contains the elements from which the flight plan is constructed. The navigation database (NDB) is normally updated every 28 days, in order to ensure that its contents are current. 
@@ -34,6 +36,8 @@ Waypoints can also be defined by the pilot(s) along the route or by reference to
 The flight plan is generally determined on the ground, before departure by the Pilot. It is entered into the FMS either by typing it in, selecting it from a saved library of common routes or via an ACARS datalink.
 
 During preflight, other information relevant to managing the flight plan is entered. This can include performance information such as gross weight, fuel weight and center of gravity. It will include altitudes including the initial cruise altitude. 
+
+![](Capture.JPG)
 
 ### Position determination
 Once in flight, a principal task of the FMS is obtaining a position fix, i.e., to determine the aircraft's position and the accuracy of that position. Simple FMS use a single sensor, generally GPS in order to determine position. But modern FMS use as many sensors as they can, such as VORs, in order to determine and validate their exact position. 
