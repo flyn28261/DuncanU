@@ -28,7 +28,7 @@ This will be used as a location to house open source information to help teach n
 
 ****WIP****
 
-[FMS](https://github.com/flyn28261/DuncanU/tree/main#FMS)
+[FMS](https://github.com/flyn28261/DuncanU/tree/main/FMS#flight-management-system)
 
 [Radar Altimeter](https://github.com/flyn28261/DuncanU/tree/main#Radar-Altimeter)
 
