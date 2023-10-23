@@ -1,4 +1,8 @@
-# Inertial navigation system
+# Inertial navigation system / Inertial Reference System
+
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/INS/README.md#more-reading) 
+
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/INS/README.md#videos)
 
 --------------------------------------------------------------------------------------
 
@@ -13,8 +17,12 @@ The most modern IRS integrate is the satellite GPS. The GPS is extremely accurat
 
 ## More Reading
 
-(Inertial navigation system)[https://en.wikipedia.org/wiki/Inertial_navigation_system]
+[Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system)
 
 ## Videos
 
 [The GENIUS of Inertial Navigation Systems Explained](https://youtu.be/Pq_PDaYclAw?si=6Ivh2nbuHXVd4EsV)
+
+[IRS - Inertial Reference System](https://youtu.be/bFGwjPaxGM0?si=WrTOeHsAbxQNWQLL)
+
+
