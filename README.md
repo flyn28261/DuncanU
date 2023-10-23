@@ -24,11 +24,13 @@ This will be used as a location to house open source information to help teach n
 
 **[Attitude and heading reference systems (AHRS)](https://github.com/flyn28261/DuncanU/tree/main/AHRS#attitude-and-heading-reference-systems-ahrs)**
 
+**[FMS](https://github.com/flyn28261/DuncanU/tree/main/FMS#flight-management-system)**
+
+
 ------------------------------------------------------------------------------------------------------------
 
 ****WIP****
 
-[FMS](https://github.com/flyn28261/DuncanU/tree/main/FMS#flight-management-system)
 
 [Radar Altimeter](https://github.com/flyn28261/DuncanU/tree/main#Radar-Altimeter)
 
