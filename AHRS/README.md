@@ -1,3 +1,11 @@
+#Attitude and heading reference systems (AHRS)
+
+Read More
+
+Video
+
+------------------------------------------------------------------------------------------------------------
+
 Attitude and heading reference systems (AHRS) have been providing heading and attitude information with greater accuracy and reliability than traditional mechanical gyros for years now. But how do these solid-state systems deliver this information, and how do they do so using increasingly smaller and lighter equipment?
 
 **Micro Electronics**
