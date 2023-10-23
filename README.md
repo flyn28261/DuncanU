@@ -27,10 +27,7 @@ This will be used as a location to house open source information to help teach n
 ****WIP****
 
 
-
-
-
-[AHRS](https://github.com/flyn28261/DuncanU/tree/main#AHRS)
+[Attitude and heading reference systems (AHRS)](https://github.com/flyn28261/DuncanU/edit/main/AHRS/README.md#attitude-and-heading-reference-systems-ahrs)
 
 [FMS](https://github.com/flyn28261/DuncanU/tree/main#FMS)
 
