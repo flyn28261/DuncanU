@@ -54,3 +54,9 @@ The FMS constantly crosschecks the various sensors and determines a single aircr
 ## Read More
 
 ## Videos
+
+[Flight Management Systems Explained](https://youtu.be/qC3HRRezJo4?si=ReYG7O6xDP1gXe6B)
+
+[Honeywell FMS 6.1 Generic Features Part 1| Aero Training TV |]( Honeywell Aerospacehttps://youtu.be/bRKyqXk9WSA?si=bYo7jR1XlVcHqvS6)
+
+[Honeywell FMS 6.1 Generic Features Part 2 | Aero Training TV | Honeywell Aerospace](https://youtu.be/t4G3usxEKF4?si=kxu9Q4mWEVUTZWs6)
