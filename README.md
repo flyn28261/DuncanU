@@ -20,13 +20,15 @@ This will be used as a location to house open source information to help teach n
 
 **[(ILS) Instrument Landing System](https://github.com/flyn28261/DuncanU/tree/main/ILS#insterments-landing-system-ils)**
 
+**[Inertial navigation system](https://github.com/flyn28261/DuncanU/tree/main/INS#inertial-navigation-system)**
+
 ------------------------------------------------------------------------------------------------------------
 
 ****WIP****
 
 
 
-[Inertial navigation system](https://github.com/flyn28261/DuncanU/tree/main/INS#inertial-navigation-system)
+
 
 [AHRS](https://github.com/flyn28261/DuncanU/tree/main#AHRS)
 
