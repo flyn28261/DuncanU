@@ -56,7 +56,7 @@ This will be used as a location to house open source information to help teach n
 
 [EGPWS](https://github.com/flyn28261/DuncanU/tree/main#EGPWS)
 
-[Pitot Static](https://github.com/flyn28261/DuncanU/tree/main#Pitot-Static)
+[Pitot Static](https://github.com/flyn28261/DuncanU/tree/main/Pitot%20Static#pitot-static)
 
 [Sat Tas](https://github.com/flyn28261/DuncanU/tree/main#Sat-Tas)
 
