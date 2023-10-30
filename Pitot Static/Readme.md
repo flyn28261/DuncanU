@@ -1,18 +1,18 @@
 ------------------------------------------------------------------------------------------------------------
 # Pitot Static
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ADF#more-reading)
+[More Reading](https://github.com/flyn28261/DuncanU/tree/main/Pitot%20Static#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos) 
+[Videos](https://github.com/flyn28261/DuncanU/tree/main/Pitot%20Static#videos)
 
-[Simulator](https://github.com/flyn28261/DuncanU/tree/main/ADF#online-simulators)
+[Simulator](https://github.com/flyn28261/DuncanU/tree/main/Pitot%20Static#online-simulators)
 
 ------------------------------------------------------------------------------------------------------------
 
 ### More Reading
 
 ### Videos
-[Pitot-Static Instruments](https://youtu.be/kdFGbUouE_4?si=YFSEP_p5Nhtri1BH)
+[Pitot-Static Instruments](https://youtu.be/kdFGbUouE_4?si=z8Cmeo3flTI0oPC7)
 
 ### Online Simulators
 
