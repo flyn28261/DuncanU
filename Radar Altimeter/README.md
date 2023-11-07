@@ -43,7 +43,7 @@ Radar altimeters complement other altitude measurement systems, such as the baro
 
 ## More Reading
 
-[Radar-Altimeter-Overview-of-Design-and-Performance](Radar Altimeter/Radar-Altimeter-Overview-of-Design-and-Performance.pdf)
+[Radar Altimeter Overview of Design and Performance](https://github.com/flyn28261/DuncanU/blob/main/Radar%20Altimeter/Radar-Altimeter-Overview-of-Design-and-Performance.pdf)
 
 ## Videos
 
