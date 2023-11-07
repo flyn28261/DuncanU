@@ -1,3 +1,14 @@
+------------------------------------------------------------------------------------------------------------
+# VHF COMM 
+
+More Reading
+
+Videos
+
+ADF Simulator
+
+------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -41,3 +52,10 @@ A **VHF Communication (Com) System** in an aircraft allows for voice communicati
     - Pilots can select specific frequencies on the VHF Com radio to communicate with different air traffic control facilities or other aircraft.
 
 Overall, the VHF Com system facilitates essential voice communication in aviation, enabling pilots to receive instructions, provide updates, and coordinate with [air traffic control](https://en.wikipedia.org/wiki/Air_traffic_control) and other aircraft during flights. The system's use of VHF frequencies allows for reliable communication over moderate distances, making it a critical component of air traffic management.
+
+
+### More Reading
+
+### Videos
+
+### Online Simulators
