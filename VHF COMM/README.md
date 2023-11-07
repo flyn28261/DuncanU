@@ -57,5 +57,10 @@ Overall, the VHF Com system facilitates essential voice communication in aviatio
 
 ### More Reading
 
+[Aviation Communication](https://en.wikipedia.org/wiki/Aviation_communication)
+
 ### Videos
+
+[Understanding Aircraft's Communication System | ACARS | Voice & Data | Antennas on an Aircraft!](https://youtu.be/iTJUHGGErp4?si=Ye9VmaM-TB-LPXq2)https://youtu.be/iTJUHGGErp4?si=Ye9VmaM-TB-LPXq2
+
 
