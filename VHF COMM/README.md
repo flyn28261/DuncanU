@@ -1,16 +1,13 @@
 ------------------------------------------------------------------------------------------------------------
 # VHF COMM 
 
-More Reading
+[More Reading](https://github.com/flyn28261/DuncanU/tree/main/VHF%20COMM#more-reading)
 
-Videos
-
-ADF Simulator
+[Videos](https://github.com/flyn28261/DuncanU/tree/main/VHF%20COMM#more-reading)
 
 ------------------------------------------------------------------------------------------------------------
 
-
-
+![](radios_icom_a220radio3darker09.jpg)
 
 
 A **VHF Communication (Com) System** in an aircraft allows for voice communication between the aircraft and ground stations or other aircraft using [Very High Frequency (VHF)](https://en.wikipedia.org/wiki/Very_high_frequency) radio waves. Here's how a VHF Com system works:
@@ -29,6 +26,8 @@ A **VHF Communication (Com) System** in an aircraft allows for voice communicati
 
 5. **Antenna**:
    - The RF signal is then sent to the aircraft's [antenna](https://en.wikipedia.org/wiki/Antenna_(radio)).
+  
+![](604.JPG)
 
 6. **Transmission**:
    - The antenna radiates the RF signal into space, where it propagates as electromagnetic waves.
@@ -50,6 +49,8 @@ A **VHF Communication (Com) System** in an aircraft allows for voice communicati
 
 12. **Frequency Selection**:
     - Pilots can select specific frequencies on the VHF Com radio to communicate with different air traffic control facilities or other aircraft.
+   
+![](Antenna.jpg)
 
 Overall, the VHF Com system facilitates essential voice communication in aviation, enabling pilots to receive instructions, provide updates, and coordinate with [air traffic control](https://en.wikipedia.org/wiki/Air_traffic_control) and other aircraft during flights. The system's use of VHF frequencies allows for reliable communication over moderate distances, making it a critical component of air traffic management.
 
@@ -58,4 +59,3 @@ Overall, the VHF Com system facilitates essential voice communication in aviatio
 
 ### Videos
 
-### Online Simulators
