@@ -33,35 +33,35 @@ This will be used as a location to house open source information to help teach n
 
 ****WIP****
 
-[VHF COMM](https://github.com/flyn28261/DuncanU/tree/main#VHF-COMM)
+[VHF COMM](https://github.com/flyn28261/DuncanU/blob/main/VHF%20COMM/README.md)
 
-[HF Comm](https://github.com/flyn28261/DuncanU/tree/main#HF-Comm)
+[HF Comm](https://github.com/flyn28261/DuncanU/blob/main/HF%20Comm/README.md)
 
-[ELT ](https://github.com/flyn28261/DuncanU/tree/main#ELT)
+ELT
 
-[Satcom](https://github.com/flyn28261/DuncanU/tree/main#Satcom)
+Satcom
 
-[GO GO](https://github.com/flyn28261/DuncanU/tree/main#GO-GO)
+GO GO
 
-[KA KU](https://github.com/flyn28261/DuncanU/tree/main#KA-KU)
+KA KU
 
-[Iriduum](https://github.com/flyn28261/DuncanU/tree/main#Iriduum)
+Iriduum
 
-[Attitude Indicator](https://github.com/flyn28261/DuncanU/tree/main#Attitude-Indicator)
+Attitude Indicator
 
-[Autopilot](https://github.com/flyn28261/DuncanU/tree/main#Autopilot)
+Autopilot
 
-[CMC](https://github.com/flyn28261/DuncanU/tree/main#CMC)
+CMC
 
-[EGPWS](https://github.com/flyn28261/DuncanU/tree/main#EGPWS)
+EGPWS
 
-[Pitot Static](https://github.com/flyn28261/DuncanU/tree/main/Pitot%20Static#pitot-static)
+Pitot Static
 
-[Sat Tas](https://github.com/flyn28261/DuncanU/tree/main#Sat-Tas)
+Sat Tas
 
-[VSI](https://github.com/flyn28261/DuncanU/tree/main#VSI)
+VSI
 
-[FAR-CFR](https://github.com/flyn28261/DuncanU/tree/main#FAR-CFR)
+FAR-CFR
 
 
 
