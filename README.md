@@ -32,7 +32,7 @@ This will be used as a location to house open source information to help teach n
 ****WIP****
 
 
-[Radar Altimeter](https://github.com/flyn28261/DuncanU/tree/main#Radar-Altimeter)
+[Radar Altimeter](https://github.com/flyn28261/DuncanU/tree/main/Radar%20Altimeter#radar-altimeter)
 
 [VHF COMM](https://github.com/flyn28261/DuncanU/tree/main#VHF-COMM)
 
