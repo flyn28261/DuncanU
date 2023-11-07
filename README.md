@@ -37,13 +37,13 @@ This will be used as a location to house open source information to help teach n
 
 [HF Comm](https://github.com/flyn28261/DuncanU/blob/main/HF%20Comm/README.md)
 
-ELT
+[ELT](https://github.com/flyn28261/DuncanU/blob/main/ELT/README.md)
 
-Satcom
+[Satcom](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md)
 
-GO GO
+[GO GO](https://github.com/flyn28261/DuncanU/blob/main/GO%20GO/README.md)
 
-KA KU
+[KA KU](https://github.com/flyn28261/DuncanU/blob/main/KA%20KU/README.md)
 
 Iriduum
 
@@ -62,6 +62,8 @@ Sat Tas
 VSI
 
 FAR-CFR
+
+GPS
 
 
 
