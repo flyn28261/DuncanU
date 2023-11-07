@@ -1,11 +1,9 @@
 ------------------------------------------------------------------------------------------------------------
-# VHF COMM 
+# HF COMM 
 
 More Reading
 
 Videos
-
-ADF Simulator
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -13,8 +11,6 @@ ADF Simulator
 ### More Reading
 
 ### Videos
-
-### Online Simulators
 
 
 An **HF Communication (Com) System** in an aircraft enables long-range voice communication between the aircraft and ground stations or other aircraft using [High Frequency (HF)](https://en.wikipedia.org/wiki/High_frequency) radio waves. Here's how an HF Com system works:
