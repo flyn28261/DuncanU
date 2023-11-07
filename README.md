@@ -30,6 +30,8 @@ This will be used as a location to house open source information to help teach n
 
 **[VHF COMM](https://github.com/flyn28261/DuncanU/blob/main/VHF%20COMM/README.md#vhf-comm)**
 
+**[HF COMM](https://github.com/flyn28261/DuncanU/blob/main/HF%20Comm/README.md#hf-comm)**
+
 
 
 
