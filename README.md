@@ -29,41 +29,11 @@ This will be used as a location to house open source information to help teach n
 **[Radar Altimeter](https://github.com/flyn28261/DuncanU/tree/main/Radar%20Altimeter#radar-altimeter)**
 
 
-------------------------------------------------------------------------------------------------------------
 
-****WIP****
 
-[VHF COMM](https://github.com/flyn28261/DuncanU/blob/main/VHF%20COMM/README.md)
 
-[HF Comm](https://github.com/flyn28261/DuncanU/blob/main/HF%20Comm/README.md)
 
-[ELT](https://github.com/flyn28261/DuncanU/blob/main/ELT/README.md)
 
-[Satcom](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md)
-
-[GO GO](https://github.com/flyn28261/DuncanU/blob/main/GO%20GO/README.md)
-
-[KA KU](https://github.com/flyn28261/DuncanU/blob/main/KA%20KU/README.md)
-
-Iriduum
-
-Attitude Indicator
-
-Autopilot
-
-CMC
-
-EGPWS
-
-Pitot Static
-
-Sat Tas
-
-VSI
-
-FAR-CFR
-
-GPS
 
 
 
