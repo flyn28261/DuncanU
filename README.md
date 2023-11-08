@@ -32,6 +32,8 @@ This will be used as a location to house open source information to help teach n
 
 **[HF COMM](https://github.com/flyn28261/DuncanU/blob/main/HF%20Comm/README.md#hf-comm)**
 
+**[ELT](https://github.com/flyn28261/DuncanU/tree/main/ELT#elt)**
+
 
 
 
