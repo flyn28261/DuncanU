@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------------------------------------------
 # ELT 
 
-More Reading
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ELT/README.md#more-reading)
 
-Videos
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/ELT/README.md#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -32,4 +32,6 @@ ELTs equipped with automatic G-force activation and mounted in aircraft are easi
 ### More Reading
 
 ### Videos
+
+[Aircraft ELT (emergency locator transmitter)](https://youtu.be/4vT8DBfdG_8?si=R4j2Q-E6F2AMBfqY)
 
