@@ -34,6 +34,7 @@ This will be used as a location to house open source information to help teach n
 
 **[ELT](https://github.com/flyn28261/DuncanU/tree/main/ELT#elt)**
 
+**[Iridium](https://github.com/flyn28261/DuncanU/tree/main/Iridium#iridium)**
 
 
 
