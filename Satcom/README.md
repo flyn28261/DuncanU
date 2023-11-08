@@ -10,9 +10,9 @@
 
 [Future Use of SATCOM for Air Traffic Management (ATM)](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#future-use-of-satcom-for-air-traffic-management-atm)
 
-More Reading
+[More Reading](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#more-reading)
 
-Videos
+[Videos](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#videos)
 
 ------------------------------------------------------------------------------------------------------------
 Airborne radio telephone communication via a satellite is usually abbreviated to the term [SATCOM](https://en.wikipedia.org/wiki/SATCOM).
