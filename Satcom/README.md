@@ -2,6 +2,14 @@
 ------------------------------------------------------------------------------------------------------------
 # Satcom 
 
+[Aircraft Satellite Communication](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#aircraft-satellite-communication)
+
+[Voice Communications](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#voice-communications)
+
+[Data Link Communications](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#data-link-communications)
+
+[Future Use of SATCOM for Air Traffic Management (ATM)](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#future-use-of-satcom-for-air-traffic-management-atm)
+
 More Reading
 
 Videos
@@ -14,7 +22,7 @@ Use of satellites for this purpose complements satellite-based navigation capabi
 ## Aircraft Satellite Communication
 
 ### Voice Communications
-Even in non-ATC use, SATCOM voice communications still require standard radio discipline procedures. Any attempt to use a SATCOM link like a normal telephone can easily lead to misunderstandings. Satellite Voice-equipped aircraft can initiate calls using either [INMARSAT](https://en.wikipedia.org/wiki/Inmarsat) or [IRIDIUM](https://en.wikipedia.org/wiki/Iridium_Communications) assigned security phone numbers (ICAO short codes), or can direct dial using commercial phone numbers and country codes. Ground Earth Stations can originate calls to SATCOM Voice-equipped aircraft using their unique 8-digit Aeronautical Earth Station (AES), aircraft ID (OCTAL) code, or phone number.
+Even in non-ATC use, SATCOM voice communications still require standard radio discipline procedures. Any attempt to use a SATCOM link like a normal telephone can easily lead to misunderstandings. Satellite Voice-equipped aircraft can initiate calls using either or [IRIDIUM](https://github.com/flyn28261/DuncanU/blob/main/Iridium/README.md#iridium) assigned security phone numbers (ICAO short codes), or can direct dial using commercial phone numbers and country codes. Ground Earth Stations can originate calls to SATCOM Voice-equipped aircraft using their unique 8-digit Aeronautical Earth Station (AES), aircraft ID (OCTAL) code, or phone number.
 
 ### Data Link Communications
 Introduction of satellite-based data link services for en route ATM, both for CPDLC and for surveillance, has allowed suitably equipped ANSPs to trial reduced oceanic procedural separation standards such as 50 nm longitudinal and 30nm longitudinal/30nm lateral. However, inconsistent data link performance mainly attributed to a combination of satellite outages, and poor Ground Earth Station (GES) availability and data link capacity issues, have temporarily reduced confidence in some early applications. Satellite providers have since worked together to address these concerns and have identified infrastructure solutions which States are being asked to help implement.
