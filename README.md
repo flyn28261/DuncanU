@@ -36,6 +36,8 @@ This will be used as a location to house open source information to help teach n
 
 **[Iridium](https://github.com/flyn28261/DuncanU/tree/main/Iridium#iridium)**
 
+**[Attitude Indicator](https://github.com/flyn28261/DuncanU/tree/main/Attitude%20Indicator)**
+
 
 
 
