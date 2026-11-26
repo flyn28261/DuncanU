@@ -9,6 +9,8 @@
 
 [More Reading](#more-reading)
 
+[Videos](#videos)
+
 ------------------------------------------------------------------------------------------------------------
 
 ARINC 429 is a widely installed unidirectional avionics interface. A transmitter drives a differential twisted pair and one or more receivers listen; a separate pair is needed for a return path.
@@ -48,5 +50,13 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
 [Related lesson: Avionics Interfaces](../Avionics%20Interfaces/README.md)
+
+[AIM — ARINC 429 and AFDX technical tutorials](https://www.aim-online.com/products-overview/tutorials/)
+
+### Videos
+
+[United Electronic Industries — ARINC 429 Tutorial and Reference (embedded video)](https://www.ueidaq.com/arinc-429-tutorial-reference-guide)
+
+[Avionics Interface Technologies — Engineering Units Display demonstration](https://aviftech.com/f-sim-429-eu/)
 
 [Back to DuncanU](../README.md)
