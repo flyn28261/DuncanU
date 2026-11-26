@@ -29,6 +29,8 @@ ARINC 429 is a widely installed unidirectional avionics interface. A transmitter
 
 Labels are conventionally expressed in octal. The eight label bits are sent first, most-significant label bit first; remaining bits follow the word's defined transmission order. BNR encodes binary numerical values, BCD encodes decimal digits, and discrete words carry individual status states. SSM interpretation and data scaling are label-specific. A word with valid parity can still contain invalid sensor data.
 
+![Nominal ARINC 429 bipolar return-to-zero differential waveform](bipolar-rz.svg)
+
 ## System Diagram
 
 ```mermaid
