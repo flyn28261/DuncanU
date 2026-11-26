@@ -2,17 +2,16 @@
 ------------------------------------------------------------------------------------------------------------
 # Satcom 
 
-[Aircraft Satellite Communication](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#aircraft-satellite-communication)
+[Aircraft Satellite Communication](#aircraft-satellite-communication)
 
-[Voice Communications](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#voice-communications)
+[Voice Communications](#voice-communications)
 
-[Data Link Communications](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#data-link-communications)
+[Data Link Communications](#data-link-communications)
 
 [Testing](#testing)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/Satcom/README.md#videos)
 
 ------------------------------------------------------------------------------------------------------------
 Airborne radio telephone communication via a satellite is usually abbreviated to the term [SATCOM](https://en.wikipedia.org/wiki/SATCOM).
