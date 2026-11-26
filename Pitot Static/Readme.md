@@ -1,13 +1,11 @@
 ------------------------------------------------------------------------------------------------------------
 # Pitot Static
 
-[Operation](#operation)
+[Pitot Tubes and Static Vents](#pitot-tubes-and-static-vents)
 
 [System Components](#system-components)
 
 [Flight Instruments](#flight-instruments)
-
-[Testing and Troubleshooting Concepts](#testing-and-troubleshooting-concepts)
 
 [Pressure Theory](#pressure-theory)
 
@@ -17,7 +15,7 @@
 
 [Inspection and Regulatory Context](#inspection-and-regulatory-context)
 
-[Knowledge Check](#knowledge-check)
+[Testing and Troubleshooting Concepts](#testing-and-troubleshooting-concepts)
 
 [More Reading](#more-reading)
 
@@ -27,9 +25,17 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-## Operation
-
 The pitot-static system supplies air pressure information to flight instruments and air data computers. A pitot probe senses total pressure, while static ports sense ambient atmospheric pressure. The difference between total and static pressure is used to determine indicated airspeed. Static pressure is also used to determine pressure altitude and vertical speed.
+
+*Primary reference: FAA Aviation Maintenance Technician Handbook – Airframe, FAA-H-8083-31B (2023), Chapter 10. Additional corporate-aircraft examples are supplemental training material.*
+
+## Pitot Tubes and Static Vents
+
+A combined pressure head can contain separate chambers for total and static pressure. A forward-facing inlet collects total pressure, while small openings in the static chamber sense ambient pressure. Internal baffles and drains help manage contamination and moisture. Heating elements provide ice protection and can present a burn hazard on the ground.
+
+On larger aircraft, separate flush static ports may be installed on opposite sides of the fuselage and connected to a common pressure source to reduce errors associated with airflow around the aircraft. Pressurized aircraft require suitable external alternate static sources rather than relying on cabin pressure. Independent pilot and copilot systems may have separate manifolds and drains.
+
+See FAA-H-8083-31B, Chapter 10, pages 10-11 through 10-14, Figures 10-22 through 10-27.
 
 ## System Components
 
@@ -134,29 +140,13 @@ Distinguish pneumatic leak testing, instrument or ADC accuracy verification, pro
 
 In the United States, 14 CFR 91.411 applies to specified IFR operations in controlled airspace and includes a 24-calendar-month inspection requirement and certain additional tests following system opening or maintenance. Part 43 Appendix E defines applicable altimeter system test and inspection requirements. Transponder inspection requirements under 91.413 and Appendix F are separate, though installations can share altitude data. Consult current regulations and approved maintenance data for applicability and authorized personnel.
 
-## Knowledge Check
-
-1. Which pressures are used to compute indicated airspeed?
-2. Which instruments depend on static pressure?
-3. Why is an ADC data bus failure different from a pneumatic leak?
-4. What happens to a conventional altimeter when static pressure is trapped?
-5. Why must the aircraft maintenance manual be consulted before connecting test equipment?
-
-<details><summary>Answers</summary>
-
-1. Total and static pressure.
-2. Airspeed indicator, altimeter and vertical speed indicator.
-3. Valid pressure measurements may exist even when digital outputs are missing or invalid.
-4. It remains near the altitude corresponding to the trapped pressure.
-5. System configuration, safe pressure limits, test setup and restoration requirements differ by aircraft.
-
-</details>
-
 ## Testing and Troubleshooting Concepts
 
 Leaks, blockages, moisture, damaged fittings and probe heating faults can affect system performance. Different blockage locations produce different indications, and redundant systems may disagree. Pressure integrity and instrument accuracy are distinct checks. Always use the applicable aircraft maintenance manual, approved test equipment instructions and regulatory requirements; do not apply generic pressure rates, limits or test sequences. In the United States, 14 CFR 91.411 and Part 43 Appendix E establish relevant requirements for altimeter and static pressure system inspections when applicable.
 
 ### More Reading
+
+[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), Chapter 10, pages 10-11–10-24 and 10-80–10-81](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [FAA — Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
 
@@ -169,6 +159,8 @@ Leaks, blockages, moisture, damaged fittings and probe heating faults can affect
 [14 CFR Part 43 Appendix E](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20E%20to%20Part%2043)
 
 ### Videos
+
+[Aircraft Instrument Systems — AMT Handbook Chapter 10](https://www.youtube.com/watch?v=8pt327wfR94) (third-party narration of an earlier handbook edition)
 
 [AeroGuard — Understanding Pitot-Static System and Flight Instruments (embedded video)](https://www.flyaeroguard.com/learning-center/pitot-static-system/)
 
