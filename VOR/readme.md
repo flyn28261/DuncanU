@@ -2,13 +2,13 @@
 
 # VHF Omnidirectional Range
 
-[Operation](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#Operation)
+[Operation](#operation)
 
-[Testing](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#Testing)
+[Testing](#testing)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#more-reading-4)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/VOR/readme.md#Videos-4)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ The VOR encodes azimuth (direction from the station) as the phase relationship b
 
 ![](VOR_Phase.jpg)
 
-The VOR signal also contains a modulated continuous wave (MCW) 7 wpm Morse code station identifier, and usually contains an amplitude modulated (AM) voice channel.
+The VOR signal includes station identification and may also carry voice.
 
 This information is then fed over an analog or digital interface to one of four common types of indicators:
 
