@@ -1,15 +1,15 @@
 -----------------------------------------------------------------------------------------------------------
 # Compass
 
-[Magnetic Compass](https://github.com/flyn28261/DuncanU/blob/main/Compass/readme.md#magnetic-compass)
+[Magnetic Compass](#magnetic-compass)
 
-[Remote Indicating Slaved Gyro Compass (Flux Gate Compass)](https://github.com/flyn28261/DuncanU/blob/main/Compass/readme.md#Remote-Indicating-Slaved-Gyro-Compass-Flux-Gate-Compass)
+[Remote Indicating Slaved Gyro Compass (Flux Gate Compass)](#remote-indicating-slaved-gyro-compass-flux-gate-compass)
 
-[Solid State Magnetometers](https://github.com/flyn28261/DuncanU/blob/main/Compass/readme.md#Solid-State-Magnetometers)
+[Solid State Magnetometers](#solid-state-magnetometers)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/Compass/readme.md#more-reading-3)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/Compass/readme.md#Videos-3)
+[Videos](#videos)
 
 -----------------------------------------------------------------------------------------------------------
 
