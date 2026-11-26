@@ -42,6 +42,8 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 
 ### More Reading
 
+[Honeywell — MK VI EGPWS technical feature overview](https://aerospace2.honeywell.com/onlineordering/system-config/systemconfigDisplay?catalogId=10251&categoryId=41)
+
 [FAA AIM — flight hazards and safety systems](https://www.faa.gov/air_traffic/publications/aim_html/chap7_section_6.html)
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
