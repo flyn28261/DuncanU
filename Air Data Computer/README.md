@@ -21,6 +21,8 @@ Air data computers convert pneumatic and temperature inputs into digital flight 
 
 **Data outputs:** Airspeed, Mach, altitude and vertical speed are distributed to displays, flight guidance, surveillance and other consumers. Interfaces may use ARINC 429 or integrated avionics networks.
 
+**RVSM technical context:** Reduced Vertical Separation Minimum operations rely on accurate independent primary altimetry, altitude alerting and automatic altitude control. Static source error correction, pressure transducer accuracy and altitude reporting are separate contributors to system performance. A passing individual ADC check does not establish installed altimetry system accuracy.
+
 ## System Diagram
 
 ```mermaid
@@ -48,6 +50,12 @@ Distinguish pneumatic accuracy from output validity. Pressure testing requires t
 Training theory only; use applicable aircraft and equipment maintenance instructions for live tests and limits.
 
 ### More Reading
+
+[FAA — RVSM technical guidance](https://www.faa.gov/air_traffic/separation_standards/rvsm)
+
+[Related lesson: SAT/TAS](../SAT%20and%20TAS/README.md)
+
+[Related lesson: VSI](../Vertical%20Speed/README.md)
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 10](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
