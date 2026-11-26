@@ -1,17 +1,17 @@
 ------------------------------------------------------------------------------------------------------------
 # HF COMM 
 
-[High Frequency (HF) theory ](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#high-frequency-hf-theory)
+[High Frequency (HF) theory ](#high-frequency-hf-theory)
 
-[Amplitude Modulation (AM)](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#amplitude-modulation-am)
+[Amplitude Modulation (AM)](#amplitude-modulation-am)
 
-[Single Sideband (SSB)](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#single-sideband-ssb)
+[Single Sideband (SSB)](#single-sideband-ssb)
 
-[Selective Calling (SELCAL)](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#selective-calling-selcal)
+[Selective Calling (SELCAL)](#selective-calling-selcal)
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#videos)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ is a modulation technique used in radio communications. Single-sideband is a for
 
 ## Selective Calling (SELCAL)
 
-is a vital communication system used in aviation to streamline long-distance radio transmissions. It operates by assigning a selective calling code to an aircraft; codes can be reused, so they are not necessarily globally unique. Before voice communication, a ground station can transmit the coded audio tones for the [SELCAL code](https://en.wikipedia.org/wiki/SELCAL) of the intended recipient. Upon reception, the aircraft's SELCAL system listens for its specific code. When a match is found, it triggers an alert to the flight crew, indicating that a message is intended for their aircraft. This selective alerting mechanism helps reduce the continuous monitoring of radio frequencies, allowing pilots to attend to other crucial tasks without missing important messages. SELCAL technology significantly enhances the efficiency and reliability of air-to-ground communications, especially over extended flight paths where continuous monitoring of radio frequencies may not be practical.
+is a vital communication system used in aviation to streamline long-distance radio transmissions. It operates by assigning a selective calling code to an aircraft; codes can be reused, so they are not necessarily globally unique. Before voice communication, a ground station can transmit the coded audio tones for the assigned [SELCAL code](https://en.wikipedia.org/wiki/SELCAL) of the intended recipient. Upon reception, the aircraft's SELCAL system listens for its specific code. When a match is found, it triggers an alert to the flight crew, indicating that a message is intended for their aircraft. This selective alerting mechanism helps reduce the continuous monitoring of radio frequencies, allowing pilots to attend to other crucial tasks without missing important messages. SELCAL technology significantly enhances the efficiency and reliability of air-to-ground communications, especially over extended flight paths where continuous monitoring of radio frequencies may not be practical.
 
 
 
