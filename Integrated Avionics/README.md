@@ -9,6 +9,8 @@
 
 [More Reading](#more-reading)
 
+[Videos](#videos)
+
 ------------------------------------------------------------------------------------------------------------
 
 Modern corporate aircraft may use federated avionics, integrated modular avionics (IMA), or a mixture. Examples include Collins Pro Line 21/Fusion, Honeywell Primus Epic and Garmin integrated flight decks; architectures are not interchangeable.
@@ -47,5 +49,11 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 10 and 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
 [Garmin — Integrated flight deck training resources](https://www.garmin.com/en-US/newsroom/press-release/aviation/garmin-announces-new-pilot-training-opportunities-through-spring-2022/)
+
+[Collins Aerospace — Pro Line Fusion](https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-deck/pro-line-fusion)
+
+### Videos
+
+[Textron Aviation — Pro Line Fusion in the King Air (video)](https://mapp.txtav.com/en/journey/videos/turboprop/dive-deep-into-fusion-avionics-in-the-king-air) — platform walkthrough.
 
 [Back to DuncanU](../README.md)
