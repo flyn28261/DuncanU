@@ -35,7 +35,7 @@ Ka-band and Ku-band satellite communication systems provide broadband connectivi
 
 Radio communication relies on electromagnetic energy carrying information between a transmitting station and a receiving station. The transmitter generates and modulates a carrier, while the receiving equipment selects the desired signal and recovers its information. A transceiver combines both functions. The antenna and transmission line form the interface between the electronic equipment and the radiated signal.
 
-See FAA-H-8083-31B, Chapter 11, pages 11-29 through 11-36.
+See FAA-H-8083-31B, communication and navigation chapter.
 
 ## Antennas and Transmission Lines
 
@@ -43,7 +43,7 @@ Antenna design determines how radio energy is radiated or received. Frequency, p
 
 The FAA discusses equipment installation, shielding, bonding, interference and antenna installation in Chapter 11. These general principles apply to connectivity installations, but the approved equipment and aircraft documentation establishes the actual requirements.
 
-See FAA-H-8083-31B, Chapter 11, pages 11-36 through 11-39 and 11-70 through 11-75.
+See the handbook's radio and antenna installation fundamentals.
 
 ## Frequency Bands
 
@@ -52,7 +52,7 @@ See FAA-H-8083-31B, Chapter 11, pages 11-36 through 11-39 and 11-70 through 11-7
 | Ku | 12–18 GHz | Widely used for satellite broadband; available bandwidth and coverage depend on the network. |
 | Ka | 26.5–40 GHz | Can offer substantial bandwidth; propagation is more sensitive to atmospheric attenuation, including rain. |
 
-These are nominal band definitions, not equipment operating frequencies. Actual satellite allocations and uplink/downlink frequencies vary.
+These are nominal IEEE radar-band definitions, not satellite service allocations. For example, satellite systems commonly called Ku may receive below 12 GHz, and systems called Ka may receive below 26.5 GHz. Actual satellite allocations and uplink/downlink frequencies vary.
 
 ## System Components
 
@@ -134,7 +134,7 @@ Distinguish cabin network faults from modem, antenna tracking, satellite coverag
 
 ### More Reading
 
-[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), Chapter 11, pages 11-29–11-39 and 11-70–11-75](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
+[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), communication and navigation chapter](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [Collins Aerospace — passenger connectivity and dual-band solutions](https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-support-services/aircraft-connectivity-services/passenger-services)
 
