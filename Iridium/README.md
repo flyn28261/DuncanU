@@ -1,11 +1,11 @@
 ------------------------------------------------------------------------------------------------------------
 # Iridium 
 
-[Orbit](https://github.com/flyn28261/DuncanU/blob/main/Iridium/README.md#orbit)
+[Orbit](#orbit)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/Iridium/README.md#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/Iridium/README.md#videos)
+[Videos](#videos)
 
 
 
