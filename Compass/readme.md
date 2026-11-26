@@ -19,7 +19,7 @@ The magnetic compass is a direction finding instrument that has been used for na
 
 ![](earths--magnetic-field.jpg)
 
-The magnetic north pole is very close to the geographic North Pole of the globe, but they are not the same. An ordinary permanent magnet that is free to do so, aligns itself with the direction of the earth’s magnetic field. Upon this principle, an instrument is constructed that the pilot can reference for directional orientation. Permanent magnets are attached under a float that is mounted on a pivot so it is free to rotate in the horizontal plane. As such, the magnets align with the earth’s magnetic field. A numerical compass card, usually graduated in 5° increments, is constructed around the perimeter of the float. It serves as the instrument dial.
+Magnetic and geographic north differ; local magnetic variation depends on location and changes over time. An ordinary permanent magnet that is free to do so, aligns itself with the direction of the earth’s magnetic field. Upon this principle, an instrument is constructed that the pilot can reference for directional orientation. Permanent magnets are attached under a float that is mounted on a pivot so it is free to rotate in the horizontal plane. As such, the magnets align with the earth’s magnetic field. A numerical compass card, usually graduated in 5° increments, is constructed around the perimeter of the float. It serves as the instrument dial.
 
 ![](compass.jpg)
 
@@ -51,10 +51,13 @@ The electricity that flows from each of the pickup coils is transmitted out of t
 
 ## Solid State Magnetometers
 
-Solid state magnetometers are used on many modern aircraft. They have no moving parts and are extremely accurate. Tiny layered structures react to magnetism on a molecular level resulting in variations in electron activity. These low power consuming devices can sense not only the direction to the earth’s magnetic poles, but also the angle of the flux field. They are free from oscillation that plagues a standard magnetic compass. They feature integrated processing algorithms and easy integration with digital systems. 
- 
+Solid-state magnetometers measure components of the local magnetic field vector. A heading system combines magnetic measurements with attitude, calibration and compensation as designed. Magnetic interference and installation errors can affect accuracy. GNSS ground track is not interchangeable with heading.
+
+
 
 ### More Reading
+
+[Modern AHRS](../AHRS/Quick%20Lesson.md)
 
 ### Videos
 
