@@ -1,11 +1,11 @@
 ------------------------------------------------------------------------------------------------------------
 # Automatic direction finder 
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ADF#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ADF#Videos) 
+[Videos](#videos) 
 
-[ADF Simulator](https://github.com/flyn28261/DuncanU/tree/main/ADF#online-simulators)
+[ADF Simulator](#online-simulators)
 
 ------------------------------------------------------------------------------------------------------------
 
