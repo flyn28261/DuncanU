@@ -1,13 +1,13 @@
 ------------------------------------------------------------------------------------------------------------
 # GO GO
 
-[Operation](#operation)
+[Radio Communication](#radio-communication)
+
+[Antennas and Transmission Lines](#antennas-and-transmission-lines)
 
 [System Components](#system-components)
 
 [Aircraft Connectivity](#aircraft-connectivity)
-
-[Troubleshooting Concepts](#troubleshooting-concepts)
 
 [Network Architecture](#network-architecture)
 
@@ -15,7 +15,7 @@
 
 [Fault Isolation Examples](#fault-isolation-examples)
 
-[Knowledge Check](#knowledge-check)
+[Troubleshooting Concepts](#troubleshooting-concepts)
 
 [More Reading](#more-reading)
 
@@ -23,9 +23,23 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-## Operation
-
 Gogo provides in-flight connectivity for business aircraft. Traditional air-to-ground (ATG) installations communicate with a network of terrestrial radio stations. The onboard equipment connects passenger devices to the internet through the aircraft cabin network. Coverage depends on the network, aircraft location, installed equipment and service plan. Satellite-capable configurations can provide connectivity beyond terrestrial coverage.
+
+*The FAA handbook provides the radio and antenna fundamentals in this lesson. Gogo-specific ATG and cabin networking is supplemental material, not a dedicated FAA handbook lesson.*
+
+## Radio Communication
+
+Radio communication relies on electromagnetic energy carrying information between a transmitting station and a receiving station. The transmitter generates and modulates a carrier, while the receiving equipment selects the desired signal and recovers its information. A transceiver combines both functions. The antenna and transmission line form the interface between the electronic equipment and the radiated signal.
+
+See FAA-H-8083-31B, Chapter 11, pages 11-29 through 11-36.
+
+## Antennas and Transmission Lines
+
+Antenna design determines how radio energy is radiated or received. Frequency, polarization and radiation pattern affect the suitability of the antenna for a particular service. Aircraft structure and mounting location can influence the installed radiation pattern. The transmission line must be appropriate for the radio and antenna, with compatible connectors and installation practices.
+
+The FAA discusses equipment installation, shielding, bonding, interference and antenna installation in Chapter 11. These general principles apply to connectivity installations, but the approved equipment and aircraft documentation establishes the actual requirements.
+
+See FAA-H-8083-31B, Chapter 11, pages 11-36 through 11-39 and 11-70 through 11-75.
 
 ## System Components
 
@@ -97,29 +111,13 @@ Never assume a generic cable impedance, allowable loss or antenna test limit; co
 
 These are hypotheses, not instructions to replace equipment. Capture aircraft configuration, flight conditions, fault messages and whether multiple devices were affected before consulting the approved fault isolation procedure.
 
-## Knowledge Check
-
-1. Why does a visible Wi-Fi SSID not prove internet connectivity?
-2. What is the difference between an ATG link and a satellite link?
-3. What does DHCP provide to a passenger device?
-4. Why can a damaged RF connector affect performance even if the cable has DC continuity?
-5. Which fault domains would you consider if only one device cannot connect?
-
-<details><summary>Answers</summary>
-
-1. The cabin access point and external link are separate functions.
-2. ATG communicates with terrestrial sites; satellite connectivity communicates through a space segment.
-3. IP configuration, typically including an address and other network settings.
-4. RF impedance discontinuities and attenuation can exist despite DC continuity.
-5. Device configuration, authentication and compatibility, while considering network policy.
-
-</details>
-
 ## Troubleshooting Concepts
 
 When investigating a reported connectivity issue, distinguish between cabin Wi-Fi availability, the external radio link and the service provider's network. Consider equipment status, network coverage, provisioning, power and antenna or cable condition. Record the operating conditions and fault indications. Use the applicable approved aircraft and equipment maintenance documentation for actual testing; this lesson does not establish test procedures or acceptance limits.
 
 ### More Reading
+
+[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), Chapter 11, pages 11-29–11-39 and 11-70–11-75](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [Gogo AVANCE platform overview](https://www.gogoair.com/resources/product-documentation/avance-overview)
 
@@ -135,7 +133,8 @@ When investigating a reported connectivity issue, distinguish between cabin Wi-F
 
 ### Videos
 
+[Communication and Navigation — AMT Handbook Chapter 11](https://www.youtube.com/watch?v=UBsLm71j8Xk) (third-party narration of an earlier handbook edition)
+
 [Gogo DASH dealer training — aircraft and connectivity activation (Gogo)](https://www.youtube.com/watch?v=BJjVgR0W_9A)
 
 This manufacturer video introduces provisioning and activation workflows. Use the current dealer documentation for actual activation.
-
