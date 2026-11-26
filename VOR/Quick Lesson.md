@@ -37,7 +37,7 @@ What is a VOR radial?
 
 <details><summary>Answer</summary>
 
-A magnetic bearing extending outward from the VOR ground station.
+A bearing extending outward from the VOR ground station, referenced to its assigned orientation (normally magnetic north).
 
 </details>
 
