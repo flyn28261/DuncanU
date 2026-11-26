@@ -21,7 +21,7 @@ Integrated flight decks distribute digital information across switched or shared
 
 **ARINC 664 Part 7 / AFDX:** Uses engineered virtual links, traffic constraints and commonly redundant networks to provide bounded communication behavior on applicable aircraft.
 
-**CAN / ARINC 825:** A shared differential bus uses message identifiers and arbitration. Correct topology and termination are important; messages are broadcast to listening nodes.
+**CAN / ARINC 825:** A shared differential CAN bus uses dominant/recessive signaling and bitwise nondestructive arbitration. For standard identifiers of equal format, lower numerical IDs generally have higher priority. Conventional high-speed CAN uses termination at both bus ends, commonly 120 ohms each; do not assume every aircraft topology uses the same implementation. Correct topology and termination are important; messages are broadcast to listening nodes.
 
 **Fiber:** Some aircraft use optical links to reduce electromagnetic coupling; optical power and cleanliness matter.
 
@@ -45,6 +45,10 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 
 ### More Reading
 
+[Kvaser — CAN protocol and physical layer](https://kvaser.com/about-can/the-can-protocol/)
+
+[Kvaser — CAN termination theory](https://kvaser.com/developer-blog/how-to-test-your-can-termination-works-correctly/)
+
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
 [Related lesson: ARINC 429](../ARINC%20429/README.md)
@@ -53,6 +57,6 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 
 ### Videos
 
-[Excalibur Systems — ARINC tutorial videos](https://www.mil-1553.com/tutorials-arinc) — use the civilian ARINC sections.
+[UEI — ARINC 429 tutorial](https://www.ueidaq.com/arinc-429-tutorial-reference-guide) — optional background on a separate avionics interface.
 
 [Back to DuncanU](../README.md)
