@@ -15,7 +15,7 @@ Flight data recorders store aircraft parameters; cockpit voice recorders store s
 
 ## Operation
 
-**FDAU/DFDAU:** Collects analog, discrete and digital inputs and organizes them into recording frames. ARINC 717 may carry framed data to an FDR; modern equipment can use other interfaces.
+**FDAU/DFDAU:** Collects analog, discrete and digital inputs and organizes them into recording frames. ARINC 717 may carry a continuous stream of 12-bit words organized into four one-second subframes per four-second frame. Synchronization words identify subframes; the aircraft-specific parameter map defines data locations and scaling. Modern equipment may use other interfaces.
 
 **CVR:** Audio sources can include crew microphones, audio panels and cockpit area microphones. Recorder status and test functions vary.
 
@@ -40,6 +40,8 @@ An invalid recorded parameter can originate upstream even when the recorder is h
 Training theory only; use applicable aircraft and equipment maintenance instructions for live tests and limits.
 
 ### More Reading
+
+[Astronics — ARINC 717 tutorial](https://www.astronics.com/avionics-databus-tutorials)
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 10](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
