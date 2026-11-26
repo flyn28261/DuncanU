@@ -1,19 +1,19 @@
 -----------------------------------------------------------------------------------------------------------
 # Transponder
 
-[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder-tests-and-inspections)
+[Transponder Tests and Inspections](#transponder-tests-and-inspections)
 
-[Altitude Encoders](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Altitude-Encoders)
+[Altitude Encoders](#altitude-encoders)
 
-**[ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b)**
+**[ADSB](#ads-b)**
 
-[ADS-B OUT](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b-out)
+[ADS-B OUT](#ads-b-out)
 
-[ADS-B IN](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b-in)
+[ADS-B IN](#ads-b-in)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#more-reading-5)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Videos-5)
+[Videos](#videos)
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ For traffic separation and control, ADS-B has several advantages over convention
 
 ### ADS-B IN
 
-ADS-B IN offers features not available in TCAS. Equipped aircraft are able to receive abundant data to enhance situational awareness. TIS-B supplies surveillance-derived traffic information; ADS-R translates traffic broadcasts between 978 MHz UAT and 1090ES for eligible receivers. Ground radar monitoring of surface targets, and any traffic data in the linked network of ground stations is sent via ADS-B IN to the flight deck. This provides a more complete picture than air-to-air only collision avoidance. Flight information services-broadcast (FIS-B) are also received by ADS-B IN. Weather text and graphics, ATIS information, and NOTAMS are able to be received in aircraft that have 978 MHz UAT capability. 
+ADS-B IN offers features not available in TCAS. Equipped aircraft are able to receive abundant data to enhance situational awareness. TIS-B supplies surveillance-derived traffic information; ADS-R translates traffic broadcasts between 978 MHz UAT and 1090ES for eligible receivers. Ground radar monitoring of surface targets, and any traffic data in the linked network of ground stations is sent via ADS-B IN to the flight deck. This provides a more complete picture than air-to-air only collision avoidance. Flight information services-broadcast (FIS-B) are also received by ADS-B IN. Supported weather and aeronautical products can be received in aircraft that have 978 MHz UAT capability. 
 
 ![](ADSBIn.JPG)
 
