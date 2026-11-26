@@ -1,11 +1,13 @@
 ------------------------------------------------------------------------------------------------------------
 # Autopilot 
 
-Foundations of autopilot Operation
+[Foundations of autopilot Operation](#foundations-of-autopilot-operation)
 
-More Reading
+[Components](#components-of-autopilot-systems)
 
-Videos 
+[Functions](#autopilot-functions)
+
+[More Reading](#more-reading) 
 
 ------------------------------------------------------------------------------------------------------------
 
