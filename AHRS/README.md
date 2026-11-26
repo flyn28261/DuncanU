@@ -18,12 +18,14 @@ An AHRS’s key features include ­micro-electronic mechanical gyros, ­accelero
 
 **Gyro Drift**
 
-In order to account for gyro drift, which can produce erroneous data, an AHRS must also rely on accelerometers as well as a magnetometer or flux valve. The former uses gravity to serve as both an initial attitude reference as well as an inflight reference, whereas the latter uses Earth’s magnetic field to provide heading information.
+Gyros measure angular rate; accelerometers measure specific force, not gravity independently. During maneuvers, specific force includes the effects of aircraft acceleration, so a simple accelerometer reading is not a direct attitude reference. Sensor fusion estimates attitude using gyro and accelerometer measurements and may use magnetic, GNSS or other aiding according to design.
 
 The AHRS aggregates all the information from these different components and conducts complex algorithms and calculations to provide highly reliable attitude and heading data.
 
 
 ## Read More
+
+[FAA AMT Airframe handbook — aircraft instruments](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [AHRS](https://en.wikipedia.org/wiki/Attitude_and_heading_reference_system)
 
