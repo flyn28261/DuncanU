@@ -60,7 +60,7 @@ Trapped static pressure no longer follows the changing ambient pressure, so the 
 
 ### More Reading
 
-[FAA AMT Handbook – Airframe, Chapter 10: Vertical Speed Indicator (10-21)](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
+[FAA AMT Handbook – Airframe, Chapter 10: aircraft instruments and vertical speed](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [Related lesson: Pitot Static](../Pitot%20Static/Quick%20Lesson.md)
 
