@@ -1,17 +1,17 @@
 -------------------------------------------------------------------------------------------------------------
 # Distance Measuring  Equipment 
 
-[Operation](https://github.com/flyn28261/DuncanU/tree/main/DME#Operation)
+[Operation](#operation)
 
-[Distance calculation](https://github.com/flyn28261/DuncanU/tree/main/DME#Distance-calculation)
+[Distance calculation](#distance-calculation)
 
-[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/main/DME#Radio-frequency-and-modulation-data)
+[Radio frequency and modulation data](#radio-frequency-and-modulation-data)
 
-[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/main/DME#Frequency-usagechannelization)
+[Frequency usage/channelization](#frequency-usagechannelization)
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/DME#more-reading-2)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/DME#Videos-2)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ A newer role for DMEs is DME/DME area navigation (RNAV).[6][7] Owing to the gene
 
 ## Distance calculation
 
-A radio signal takes approximately 12.36 microseconds to travel 1 nautical mile (1,852 m) to the target and back. The time difference between interrogation and reply, minus the 50 microsecond ground transponder delay and the pulse width of the reply pulses (12 microseconds in X mode and 30 microseconds in Y mode), is measured by the interrogator's timing circuitry and converted to a distance measurement (slant range), in nautical miles, then displayed on the cockpit DME display.
+A radio signal takes approximately 12.36 microseconds to travel 1 nautical mile (1,852 m) to the target and back. The airborne interrogator measures the interrogation-to-reply interval using the specified pulse timing reference and subtracts the applicable nominal ground reply delay: 50 µs for DME/N X channels and 56 µs for Y channels. It converts the remaining round-trip propagation time into slant range. Pulse-pair spacing is not pulse width and is not an additional generic subtraction.
 
 The distance formula, distance = rate * time, is used by the DME receiver to calculate its distance from the DME ground station. The rate in the calculation is the velocity of the radio pulse, which is the speed of light (roughly 300,000,000 m/s or 186,000 mi/s). The time in the calculation is ½(total time − reply delay).
 
@@ -49,7 +49,7 @@ The distance formula, distance = rate * time, is used by the DME receiver to cal
 
 DME frequencies are paired to VOR frequencies and a DME interrogator is designed to automatically tune to the corresponding DME frequency when the associated VOR frequency is selected. An airplane's DME interrogator uses frequencies from 1025 to 1150 MHz. DME transponders transmit on a channel in the 962 to 1213 MHz range and receive on a corresponding channel between 1025 and 1150 MHz. The band is divided into 126 channels for interrogation and 126 channels for reply. The interrogation and reply frequencies always differ by 63 MHz. The spacing of all channels is 1 MHz with a signal spectrum width of 100 kHz.
 
-Technical references to X and Y channels relate only to the spacing of the individual pulses in the DME pulse pair, 12 microsecond spacing for X channels and 30 microsecond spacing for Y channels.
+X and Y channel coding includes interrogation and reply pulse-pair spacing and reply delay. X uses 12 µs for both pairs; Y uses 36 µs interrogation and 30 µs reply.
 
 DME facilities identify themselves with a 1,350 Hz Morse code three letter identity. If collocated with a VOR or ILS, it will have the same identity code as the parent facility. Additionally, the DME will identify itself between those of the parent facility. The DME identity is 1,350 Hz to differentiate itself from the 1,020 Hz tone of the VOR or the ILS localizer.
 
@@ -64,6 +64,8 @@ Not all defined channels/frequencies are assigned. There are assignment 'holes' 
 Precision DME (DME/P), a component of the Microwave Landing System, is assigned to Z channels, which have a third set of interrogation and reply pulse spacings. The Z channels are multiplexed with the Y channels and do not materially affect the channel plan.
 
 ### More Reading
+
+[FAA Order 6820.14 — DME engineering and timing](https://www.faa.gov/documentLibrary/media/Order/FAA_Order_6820.14.pdf)
 
 ### Videos
 [Distance Measuring Equipment](https://youtu.be/wMmooAYr9sw?si=bqWSsvgKMyMLXZvk)

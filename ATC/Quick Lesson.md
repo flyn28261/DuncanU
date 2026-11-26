@@ -17,7 +17,7 @@ A transponder replies to surveillance interrogations. ADS-B Out broadcasts aircr
 
 ## Operation
 
-Mode S supports selective addressing. A transponder generally receives interrogations at 1030 MHz and replies at 1090 MHz. ADS-B Out obtains position and integrity information from an approved navigation source, plus altitude and aircraft identity data. ADS-B In receives traffic and other supported broadcasts; it is a separate capability. Mode A/C is legacy background.
+Mode S supports selective addressing. A transponder generally receives interrogations at 1030 MHz and replies at 1090 MHz. ADS-B Out obtains position and integrity information from an approved navigation source, plus altitude and aircraft identity data. ADS-B In receives traffic and other supported broadcasts; it is a separate capability. Mode A/C-only equipment is legacy background. UAT uses 978 MHz; US Class A airspace generally requires compliant 1090ES unless otherwise authorized. ADS-R translates between links; TIS-B is ground surveillance-derived traffic; FIS-B provides supported information on UAT. NIC, NACp, NACv, SIL and SDA indicate containment, accuracy, integrity and design assurance. Barometric and geometric altitude are distinct.
 
 ## Signal Flow
 
@@ -42,6 +42,8 @@ ADS-B also depends on valid position, integrity, identity and other input data.
 </details>
 
 ### More Reading — Optional
+
+[FAA AIM — surveillance](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)
 
 [Full existing lesson, images and resources](readme.md)
 

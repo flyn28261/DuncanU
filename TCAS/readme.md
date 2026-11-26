@@ -7,15 +7,15 @@
 
 ![](IVSI.JPG)
 
-Traffic collision avoidance systems (TCAS) are transponder based air-to-air traffic monitoring and alerting systems. There are two classes of TCAS. TCAS I was developed to accommodate the general aviation community and regional airlines. This system identifies traffic in a 35–40 mile range of the aircraft and issues Traffic Advisories (TA) to assist pilots in visual acquisition of intruder aircraft. 
+Traffic collision avoidance systems (TCAS) are transponder based air-to-air traffic monitoring and alerting systems. There are two classes of TCAS. TCAS I was developed to accommodate the general aviation community and regional airlines. This system identifies traffic within the equipment's surveillance coverage and issues Traffic Advisories (TA) to assist pilots in visual acquisition of intruder aircraft. 
 
 ![](ControlHead.JPG)
 
-TCAS II is a more sophisticated system. TCAS II provides the information of TCAS I, but also analyzes the projected flightpath of approaching aircraft. If a collision or near miss is imminent, the TCAS II computer issues a Resolution Advisory (RA). This is an aural command to the pilot to take a specific evasive action (i.e., DESCEND). The computer is programmed such that the pilot in the encroaching aircraft receives an RA for evasive action in the opposite direction (if it is TCAS II equipped). 
+TCAS II is a more sophisticated system. TCAS II provides the information of TCAS I, but also analyzes the projected flightpath of approaching aircraft. If a collision or near miss is imminent, the TCAS II computer issues a Resolution Advisory (RA). An RA provides vertical maneuver guidance or a restriction on vertical rate, accompanied by visual and aural indications. The computer is programmed such that compatible TCAS II units coordinate complementary resolution advisories when both aircraft support coordination. 
 
 ![](MFD.JPG)
 
-The transponder of an aircraft with TCAS is able to interrogate the transponders of other aircraft nearby using SSR technology (Mode C and Mode S). Interrogated aircraft transponders reply with an encoded signal that allows the TCAS computer to display the position and altitude of each aircraft. Should the aircraft come within the horizontal or vertical distances shown, an audible TA is announced. The pilot must decide whether to take action and what action to take. TCAS II equipped aircraft use continuous reply information to analyze the speed and trajectory of target aircraft in close proximity. If a collision is calculated to be imminent, an RA is issued.
+The TCAS interrogator performs active surveillance at 1030 MHz and receives transponder replies at 1090 MHz; the aircraft's Mode S transponder supports coordination and replies to other interrogators. Interrogated aircraft transponders reply with an encoded signal that allows the TCAS computer to display the position and altitude of each aircraft. Advisory logic uses predicted time to conflict and applicable range and altitude thresholds. The pilot must decide whether to take action and what action to take. TCAS II equipped aircraft use continuous reply information to analyze the speed and trajectory of target aircraft in close proximity. If a collision is calculated to be imminent, an RA is issued.
 
 ![](TA-RA.JPG)
 
@@ -24,6 +24,8 @@ TCAS target aircraft are displayed on a screen on the flight deck. Different col
 ![](CallOuts.JPG)
 
 ### More Reading
+
+[FAA — Airborne Collision Avoidance Systems](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/airborne-collision-avoidance-system-acas)
 
 [wikipedia](https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system#Impetus_for_a_system_and_history)
 

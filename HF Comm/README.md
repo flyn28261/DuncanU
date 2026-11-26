@@ -1,17 +1,17 @@
 ------------------------------------------------------------------------------------------------------------
 # HF COMM 
 
-[High Frequency (HF) theory ](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#high-frequency-hf-theory)
+[High Frequency (HF) theory ](#high-frequency-hf-theory)
 
-[Amplitude Modulation (AM)](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#amplitude-modulation-am)
+[Amplitude Modulation (AM)](#amplitude-modulation-am)
 
-[Single Sideband (SSB)](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#single-sideband-ssb)
+[Single Sideband (SSB)](#single-sideband-ssb)
 
-[Selective Calling (SELCAL)](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#selective-calling-selcal)
+[Selective Calling (SELCAL)](#selective-calling-selcal)
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/HF%20Comm#videos)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ An **HF Communication (Com) System** in an aircraft enables long-range voice com
    - The modulated signal is sent to the transmitter, which generates the radio frequency (RF) signal for transmission.
 
 5. **Antenna**:
-   - The RF signal is then sent to the aircraft's [antenna](https://en.wikipedia.org/wiki/Antenna_(radio)).
+   - The RF signal passes through the installed antenna coupler, which matches the antenna impedance to the transceiver over the operating range, then to the aircraft antenna. Couplers and antenna circuits can develop hazardous RF voltages.
 
 6. **Transmission**:
    - The antenna radiates the RF signal into space, where it propagates as electromagnetic waves.
@@ -72,7 +72,7 @@ is a fundamental technique in the field of [telecommunications](https://en.wikip
 
 ## Single Sideband (SSB)
 
-is a modulation technique used in radio communications. Unlike amplitude modulation (AM), which transmits both sidebands and the carrier signal, SSB transmits only one sideband, significantly reducing bandwidth requirements. This results in more efficient use of radio spectrum. SSB is widely employed in long-distance and high-frequency communication, particularly in applications such as amateur radio, marine radio, and aviation communication. It offers greater range and signal clarity compared to AM, making it an important tool for reliable communication over extended distances.
+is a modulation technique used in radio communications. Single-sideband is a form of amplitude modulation. Suppressed-carrier SSB normally transmits one sideband, reducing occupied bandwidth and carrier power; aeronautical HF voice commonly uses upper sideband (USB). This results in more efficient use of radio spectrum. SSB is widely employed in long-distance and high-frequency communication, particularly in applications such as amateur radio, marine radio, and aviation communication. Its power and bandwidth efficiency can improve communication under some conditions, making it an important tool for reliable communication over extended distances.
 
 ![](tail side.jpg)
 
@@ -80,13 +80,15 @@ is a modulation technique used in radio communications. Unlike amplitude modulat
 
 ## Selective Calling (SELCAL)
 
-is a vital communication system used in aviation to streamline long-distance radio transmissions. It operates by assigning a unique code to an aircraft, which is registered with air traffic control or a ground station. When a message is sent over a long-range radio frequency, it includes the [SELCAL code](https://en.wikipedia.org/wiki/SELCAL) of the intended recipient. Upon reception, the aircraft's SELCAL system listens for its specific code. When a match is found, it triggers an alert to the flight crew, indicating that a message is intended for their aircraft. This selective alerting mechanism helps reduce the continuous monitoring of radio frequencies, allowing pilots to attend to other crucial tasks without missing important messages. SELCAL technology significantly enhances the efficiency and reliability of air-to-ground communications, especially over extended flight paths where continuous monitoring of radio frequencies may not be practical.
+is a vital communication system used in aviation to streamline long-distance radio transmissions. It operates by assigning a selective calling code to an aircraft; codes can be reused, so they are not necessarily globally unique. Before voice communication, a ground station can transmit the coded audio tones for the assigned [SELCAL code](https://en.wikipedia.org/wiki/SELCAL) of the intended recipient. Upon reception, the aircraft's SELCAL system listens for its specific code. When a match is found, it triggers an alert to the flight crew, indicating that a message is intended for their aircraft. This selective alerting mechanism helps reduce the continuous monitoring of radio frequencies, allowing pilots to attend to other crucial tasks without missing important messages. SELCAL technology significantly enhances the efficiency and reliability of air-to-ground communications, especially over extended flight paths where continuous monitoring of radio frequencies may not be practical.
 
 
 
 
 
 ### More Reading
+
+[FAA AIM — communications and navigation](https://www.faa.gov/air_traffic/publications/aim_html/)
 
 ### Videos
 

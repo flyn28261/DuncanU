@@ -17,7 +17,7 @@ VHF voice radios provide line-of-sight air-ground communications. Modern corpora
 
 ## Operation
 
-Civil aviation voice channels occupy the VHF communications band near 118–137 MHz and commonly use amplitude modulation. Channel spacing varies by region and equipment. A transceiver shares an antenna for transmit and receive. Audio systems provide microphone audio, push-to-talk and received audio routing.
+Civil aviation voice channels occupy the VHF communications band near 118–137 MHz and normally use amplitude modulation and alternating transmit/receive (simplex, half-duplex operation). Channel spacing varies by region and equipment. A transceiver shares an antenna for transmit and receive. Audio systems provide microphone audio, push-to-talk and received audio routing.
 
 ## Signal Flow
 

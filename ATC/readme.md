@@ -1,19 +1,19 @@
 -----------------------------------------------------------------------------------------------------------
 # Transponder
 
-[Transponder Tests and Inspections](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#transponder-tests-and-inspections)
+[Transponder Tests and Inspections](#transponder-tests-and-inspections)
 
-[Altitude Encoders](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Altitude-Encoders)
+[Altitude Encoders](#altitude-encoders)
 
-**[ADSB](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b)**
+**[ADSB](#ads-b)**
 
-[ADS-B OUT](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b-out)
+[ADS-B OUT](#ads-b-out)
 
-[ADS-B IN](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#ads-b-in)
+[ADS-B IN](#ads-b-in)
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#more-reading-5)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ATC/readme.md#Videos-5)
+[Videos](#videos)
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -34,24 +34,24 @@ A secondary surveillance radar (SSR) is used by ATC to verify the aircraft’s p
 
 ![](Interagation.JPG)
 
-Mode 3/A pulses, as they are known, aid in confirming the location of the aircraft. A pilot may be requested to squawk a given code by an air traffic controller, via the radio, using a phrase such as "Cessna 123AB, squawk 0363". The pilot then selects the 0363 code on their transponder and the track on the air traffic controller's radar screen will become correctly associated with their identity. These are digital octal codes. The ground station transmits a pulse of energy at 1030 MHz and the transponder transmits a reply with the assigned code attached at 1090 MHz. This confirms the aircraft’s location typically by altering its target symbol on the radar screen. As the screen may be filled with many confirmed aircraft, ATC can also ask the pilot to ident. By pressing the IDENT button on the transponder, activates a special thirteenth bit on the mode A reply that causes the target symbol is highlighted on the radar scope and to be distinguishable.
+Mode 3/A pulses, as they are known, aid in confirming the location of the aircraft. A pilot may be requested to squawk a given code by an air traffic controller, via the radio, using a phrase such as "Cessna 123AB, squawk 0363". The pilot then selects the 0363 code on their transponder and the track on the air traffic controller's radar screen will become correctly associated with their identity. These are digital octal codes. The ground station transmits a pulse of energy at 1030 MHz and the transponder transmits a reply with the assigned code attached at 1090 MHz. This confirms the aircraft’s location typically by altering its target symbol on the radar screen. As the screen may be filled with many confirmed aircraft, ATC can also ask the pilot to ident. By pressing the IDENT button on the transponder, activates the special position identification (SPI) indication in the applicable reply that causes the target symbol is highlighted on the radar scope and to be distinguishable.
 
 ![](pulse.gif)
 
 To gain altitude clarification, the transponder control must be placed in the ALT or Mode C position. The signal transmitted back to ATC in response to pulse interrogation is then modified with a code that places the pressure altitude of the aircraft next to the target symbol on the radar screen. The transponder gets the pressure altitude of the aircraft from an altitude encoder that is electrically connected to the transponder. Typical aircraft transponder antennas are illustrated in Figure 
 
-![](transponder2.JPG)
+![](Transponder2.JPG)
 
 The aircraft transponder system described is known as Air Traffic Control Radar Beacon System (ATCRBS). To increase safety, Mode S altitude response has been developed. With Mode S, each aircraft is pre-assigned a unique identity code that displays along with its pressure altitude on ATC radar when the transponder responds to SSR interrogation.
 
 
 ## Transponder Tests and Inspections
 
-Title 14 of the Code of Federal Regulations (CFR) part 91, section 91.413 states that all transponders on aircraft flown into controlled airspace are required to be inspected and tested in accordance with 14 CFR part 43, Appendix F, every 24 calendar months. Installation or maintenance that may introduce a transponder error is also cause for inspection and test in accordance with Appendix F. Only an appropriately rated repair station are approved to conduct the procedures. 
+Under 14 CFR 91.413(a), applicable ATC transponders must pass Part 43 Appendix F tests within the preceding 24 calendar months. Under 91.413(b), installation or maintenance that could introduce altitude-data correspondence errors requires the integrated system test in Appendix E(c). These are distinct checks.
 
 ![](411.jpg)
 
-Operating a transponder in a hangar or on the ramp does not immunize it from interrogation and reply. Transmission of certain codes reserved for emergencies or military activity must be avoided. The procedure to select a code during ground operation is to do so with the transponder in the OFF or STANDBY mode to avoid inadvertent transmission. Code 0000 is reserved for military use and is a transmittable code. Code 7500 is used in a hijack situation and 7600 and 7700 are also reserved for emergency use. Even the inadvertent transmission of code 1200 reserved for VFR flight not under ATC direction could result in evasion action. All signals received from a radar beacon transponder are taken seriously by ATC.
+Transponder tests can create misleading surveillance targets. Use approved ramp-test arrangements, RF isolation and aircraft-specific ground-test modes. Do not transmit emergency codes or false altitude/position data into operational airspace.
 
 ## Altitude Encoders
 
@@ -69,24 +69,32 @@ Two different frequencies are used to carry these broadcasts with data link capa
 
 ### ADS-B OUT
 
+For US Class A airspace, 1090ES meeting the applicable performance requirements is required unless authorized otherwise. Barometric altitude is pressure-referenced; geometric altitude derives from the geometric position source. Both may be transmitted. NIC describes integrity containment, NACp position accuracy, NACv velocity accuracy, SIL integrity risk and SDA design assurance. Valid RF output alone cannot establish ADS-B compliance.
+
 Inexpensive ground stations (compared to radar) are constructed in remote and obstructed areas to proliferate ADS-B. Ground stations share information from airborne ADS-B broadcasts with other ground stations that are part of the air traffic management system (ATMS). Data is transferred with no need for human acknowledgement. Microwave and satellite transmissions are used to link the network.
 
-For traffic separation and control, ADS-B has several advantages over conventional ground-based radar. The first is the entire airspace can be covered with a much lower expense. The aging ATC radar system that is in place is expensive to maintain and replace. Additionally, ADS-B provides more accurate information since the vector state is generated from the aircraft with the help of GPS satellites. Weather is a greatly reduced factor with ADS-B. Ultra-high frequency GPS transmissions are not affected. Increased positioning accuracy allows for higher density traffic flow and landing approaches, an obvious requirement to operate more aircraft in and out of the same number of facilities. The higher degree of control available also enables routing for fewer weather delays and optimal fuel burn rates. Collision avoidance is expanded to include runway incursion from other aircraft and support vehicles on the surface of an airport.
+For traffic separation and control, ADS-B has several advantages over conventional ground-based radar. Coverage depends on the ground network, antenna visibility and the available surveillance infrastructure. The aging ATC radar system that is in place is expensive to maintain and replace. Additionally, ADS-B provides more accurate information since the vector state is generated from the aircraft with the help of GPS satellites. Weather is a greatly reduced factor with ADS-B. GNSS reception can be degraded by interference, blockage, multipath and ionospheric effects. Increased positioning accuracy allows for higher density traffic flow and landing approaches, an obvious requirement to operate more aircraft in and out of the same number of facilities. The higher degree of control available also enables routing for fewer weather delays and optimal fuel burn rates. Collision avoidance is expanded to include runway incursion from other aircraft and support vehicles on the surface of an airport.
 
 ![](ADSB.JPG)
 
 ### ADS-B IN
 
-ADS-B IN offers features not available in TCAS. Equipped aircraft are able to receive abundant data to enhance situational awareness. Traffic information services-broadcast (TIS-B) supply traffic information from non-ADS-B aircraft and ADS-B aircraft on a different frequency. Ground radar monitoring of surface targets, and any traffic data in the linked network of ground stations is sent via ADS-B IN to the flight deck. This provides a more complete picture than air-to-air only collision avoidance. Flight information services-broadcast (FIS-B) are also received by ADS-B IN. Weather text and graphics, ATIS information, and NOTAMS are able to be received in aircraft that have 987 UAT capability. 
+ADS-B IN offers features not available in TCAS. Equipped aircraft are able to receive abundant data to enhance situational awareness. TIS-B supplies surveillance-derived traffic information; ADS-R translates traffic broadcasts between 978 MHz UAT and 1090ES for eligible receivers. Ground radar monitoring of surface targets, and any traffic data in the linked network of ground stations is sent via ADS-B IN to the flight deck. This provides a more complete picture than air-to-air only collision avoidance. Flight information services-broadcast (FIS-B) are also received by ADS-B IN. Supported weather and aeronautical products can be received in aircraft that have 978 MHz UAT capability. 
 
 ![](ADSBIn.JPG)
 
 
 ### More Reading
 
+[FAA AIM — Surveillance systems](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)
+
+[14 CFR 91.413](https://www.ecfr.gov/current/title-14/section-91.413)
+
+[14 CFR 91.227](https://www.ecfr.gov/current/title-14/section-91.227)
+
 [Mode A and Mode C Codes](http://www.aeroelectric.com/articles/Altitude_Encoding/modec.htm)
 
-[Radar Beacon Transponder](Aviation_Maintenance_Technician_Handbook–Airframe,_Volume_2.pdf)
+[Radar Beacon Transponder](Aviation%20Maintenance%20Technician%20Handbook%E2%80%93Airframe%2C%20Volume%202.pdf)
 
 ### Videos
 

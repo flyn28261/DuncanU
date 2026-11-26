@@ -21,7 +21,7 @@ Airborne weather radar transmits microwave energy and analyzes reflected signals
 
 **Antenna and stabilization:** Antenna steering or electronic scanning controls beam direction. Attitude inputs compensate for aircraft motion. Radome attenuation and beam shape affect detection.
 
-**Windshear:** Predictive radar can identify certain hazardous velocity patterns ahead; reactive warning systems use measured aircraft performance and air data. Not every radar supports predictive windshear. Heavy precipitation can attenuate the beam and hide weather beyond it.
+**Windshear:** Predictive radar can identify certain hazardous velocity patterns ahead; reactive warning systems use measured aircraft performance and air data. Not every radar supports predictive windshear. Heavy precipitation can attenuate the beam and hide weather beyond it. Weak or absent returns do not prove a clear path. Airborne radar and delayed ground-radar uplink imagery are different sources.
 
 ## System Diagram
 
@@ -51,7 +51,9 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
-[Garmin — Weather radar training overview](https://www.garmin.com/en-US/newsroom/press-release/aviation/garmin-announces-new-pilot-training-opportunities-through-spring-2022/)
+[Garmin — interpreting radar returns](https://support.garmin.com/en-ZA/aviation/faq/5PNo1lOYK437plZMBvGbB6/)
+
+[Garmin — tilt angle and ground clutter](https://support.garmin.com/en-US/?faq=UnYMPI3uV691hGMaI3XLU9)
 
 ### Videos
 

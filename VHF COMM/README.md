@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------------------------------------------
 # VHF COMM 
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/VHF%20COMM#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/VHF%20COMM#more-reading)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ A **VHF Communication (Com) System** in an aircraft allows for voice communicati
    - The audio signal is then amplified and processed to ensure clarity and quality.
 
 3. **Modulation**:
-   - The processed audio signal is used to modulate a carrier wave within the VHF frequency band (typically between [118.000 to 136.975 MHz](https://en.wikipedia.org/wiki/Aircraft_communications_frequencies)).
+   - The processed audio signal is used to amplitude-modulate a carrier wave within the VHF communications band (typically between [118.000 to 136.975 MHz](https://en.wikipedia.org/wiki/Aircraft_communications_frequencies)).
 
 4. **Transmitter**:
    - The modulated signal is sent to the transmitter, which generates the radio frequency (RF) signal for transmission.
@@ -44,8 +44,8 @@ A **VHF Communication (Com) System** in an aircraft allows for voice communicati
 10. **Speaker and Headset**:
     - The processed audio signal is then sent to [speakers](https://en.wikipedia.org/wiki/Loudspeaker) or [headsets](https://en.wikipedia.org/wiki/Headset_(audio)) , allowing the recipient (pilot or air traffic controller) to hear the communication.
 
-11. **Duplex Communication**:
-    - VHF Com systems are typically [duplex](https://en.wikipedia.org/wiki/Duplex_(telecommunications)), meaning they allow for simultaneous transmission and reception. This allows for natural two-way conversation.
+11. **Simplex voice communication:**
+    - Conventional civil aviation VHF voice uses AM and push-to-talk. On a shared voice channel, stations take turns transmitting and receiving (half-duplex operation). Simultaneous transmission can block or interfere with reception.
 
 12. **Frequency Selection**:
     - Pilots can select specific frequencies on the VHF Com radio to communicate with different air traffic control facilities or other aircraft.
@@ -61,6 +61,6 @@ Overall, the VHF Com system facilitates essential voice communication in aviatio
 
 ### Videos
 
-[Understanding Aircraft's Communication System | ACARS | Voice & Data | Antennas on an Aircraft!](https://youtu.be/iTJUHGGErp4?si=Ye9VmaM-TB-LPXq2)https://youtu.be/iTJUHGGErp4?si=Ye9VmaM-TB-LPXq2
+[Understanding Aircraft's Communication System | ACARS | Voice & Data | Antennas on an Aircraft!](https://youtu.be/iTJUHGGErp4?si=Ye9VmaM-TB-LPXq2)
 
 

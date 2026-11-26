@@ -13,7 +13,7 @@
 
 [Blockage and Leak Indications](#blockage-and-leak-indications)
 
-[Inspection and Regulatory Context](#inspection-and-regulatory-context)
+[Technical Inspection Concepts](#technical-inspection-concepts)
 
 [Testing and Troubleshooting Concepts](#testing-and-troubleshooting-concepts)
 
@@ -33,9 +33,9 @@ The pitot-static system supplies air pressure information to flight instruments 
 
 A combined pressure head can contain separate chambers for total and static pressure. A forward-facing inlet collects total pressure, while small openings in the static chamber sense ambient pressure. Internal baffles and drains help manage contamination and moisture. Heating elements provide ice protection and can present a burn hazard on the ground.
 
-On larger aircraft, separate flush static ports may be installed on opposite sides of the fuselage and connected to a common pressure source to reduce errors associated with airflow around the aircraft. Pressurized aircraft require suitable external alternate static sources rather than relying on cabin pressure. Independent pilot and copilot systems may have separate manifolds and drains.
+On larger aircraft, separate flush static ports may be installed on opposite sides of the fuselage and connected to a common pressure source to reduce errors associated with airflow around the aircraft. Alternate static source arrangements depend on aircraft design; cabin pressure in a pressurized aircraft is not generally a valid substitute for outside static pressure. Independent pilot and copilot systems may have separate manifolds and drains.
 
-See FAA-H-8083-31B, Chapter 10, pages 10-11 through 10-14, Figures 10-22 through 10-27.
+See FAA-H-8083-31B — aircraft instrument systems chapter.
 
 ## System Components
 
@@ -134,11 +134,11 @@ flowchart TD
 
 A symptom can have multiple causes. Aircraft-specific pressure plumbing, cross-side comparisons and standby architecture must be understood before drawing conclusions.
 
-## Inspection and Regulatory Context
+## Technical Inspection Concepts
 
 Distinguish pneumatic leak testing, instrument or ADC accuracy verification, probe heat checks and digital data verification. They address different failure modes. The applicable aircraft maintenance manual specifies connection points, isolation requirements, pressure limits and restoration requirements. Protect connected instruments and pressure transducers from excessive differential pressure and unintended pressure changes.
 
-In the United States, 14 CFR 91.411 applies to specified IFR operations in controlled airspace and includes a 24-calendar-month inspection requirement and certain additional tests following system opening or maintenance. Part 43 Appendix E defines applicable altimeter system test and inspection requirements. Transponder inspection requirements under 91.413 and Appendix F are separate, though installations can share altitude data. Consult current regulations and approved maintenance data for applicability and authorized personnel.
+In the United States, 14 CFR 91.411 applies to airplanes and helicopters operated under IFR in controlled airspace and includes a 24-calendar-month inspection requirement and certain additional tests following system opening or maintenance. Part 43 Appendix E defines applicable altimeter system test and inspection requirements. Transponder inspection requirements under 91.413 and Appendix F are separate, though installations can share altitude data. Consult current technical requirements and aircraft-specific test limits.
 
 ## Testing and Troubleshooting Concepts
 
@@ -146,7 +146,7 @@ Leaks, blockages, moisture, damaged fittings and probe heating faults can affect
 
 ### More Reading
 
-[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), Chapter 10, pages 10-11–10-24 and 10-80–10-81](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
+[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), aircraft instrument systems chapter](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [FAA — Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak)
 

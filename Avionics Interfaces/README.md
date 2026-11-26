@@ -23,8 +23,10 @@ Aircraft avionics exchange information using serial links and electrical signals
 | Discrete | Open/ground or voltage state, depending on design |
 | Analog | Continuous voltage, current or resistance |
 | Resolver | Excited angular sensor with sine/cosine outputs |
-| ARINC 708 | Specialized radar display data interface |
-| ARINC 717 | Framed flight recording data interface |
+| ARINC 708 | Radar display interface; commonly 1 Mbit/s Manchester encoded, 1600-bit messages |
+| ARINC 717 | Recorder stream of 12-bit words; four one-second subframes per frame |
+
+On ARINC 708, the radar display message includes status/header and range-bin data; control may use a separate interface. On ARINC 717, the parameter is identified by its assigned frame position rather than an ARINC 429-style label. Word rate and encoding depend on the installation. Neither interface should be tested using an assumed universal pinout.
 
 Serial physical standards do not define every application protocol. A valid electrical signal may still contain the wrong message format. A resolver angle depends on relative signal amplitudes and phase/reference conventions.
 
@@ -46,6 +48,8 @@ Use aircraft-specific signal definitions and appropriate high-impedance or isola
 Training theory only; use applicable aircraft and equipment maintenance instructions for live tests and limits.
 
 ### More Reading
+
+[Astronics Ballard — avionics databus tutorials](https://www.astronics.com/avionics-databus-tutorials)
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 

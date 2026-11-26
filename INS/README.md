@@ -1,16 +1,16 @@
 # Inertial navigation system / Inertial Reference System
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/INS/README.md#more-reading) 
+[More Reading](#more-reading) 
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/INS/README.md#videos)
+[Videos](#videos)
 
 --------------------------------------------------------------------------------------
 
-An inertial navigation system (INS) is used for long range navigation. This may also be identified as an inertial reference system (IRS), although the IRS designation is generally reserved for more modern systems. An INS/IRS is a self-contained system that does not require input radio signals from a ground navigation facility or transmitter. The system derives attitude, velocity, and direction information from measurement of the aircraft’s accelerations given a known starting point. The location of the aircraft is continuously updated through calculations based on the forces experienced by INS accelerometers. A minimum of two accelerometers is used, one referenced to north, and the other referenced to east.
+An inertial navigation system (INS) computes navigation information from inertial sensors. An inertial reference system (IRS) supplies inertial reference data to other avionics; terminology and functional boundaries vary by installation. An INS/IRS is a self-contained system that does not require input radio signals from a ground navigation facility or transmitter. The system derives attitude, velocity, and direction information from measurement of the aircraft’s accelerations given a known starting point. The location of the aircraft is continuously updated through calculations based on the forces experienced by INS accelerometers. Modern strapdown inertial units normally use three gyro axes and three accelerometer axes, with mathematical coordinate transformation.
 
 ![](INS.png)
 
-An INS uses complex calculation made by an INS computer to convert applied forces into location information. An interface control head is used to enter starting location position data while the aircraft is stationary on the ground. This is called initializing. From then on, all motion of the aircraft is sensed by the built-in accelerometers and run through the computer. Feedback and correction loops are used to correct for accumulated error as flight time progresses. The amount an INS is off in one hour of flight time is a reference point for determining performance. Accumulated error of less than one mile after one hour of flight is possible. A latitude/longitude coordinate system is used when giving the location output.
+An INS uses complex calculation made by an INS computer to convert applied forces into location information. An interface control head is used to enter starting location position data while the aircraft is stationary on the ground. This is called initializing. From then on, all motion of the aircraft is sensed by the built-in accelerometers and run through the computer. Unaided inertial errors accumulate; external aiding can constrain them. The amount an INS is off in one hour of flight time is a reference point for determining performance. Drift performance varies with equipment and alignment; use model-specific specifications. A latitude/longitude coordinate system is used when giving the location output.
 
 ![](Laser_Ref.jpg)
 
@@ -18,13 +18,15 @@ INS is integrated into an Aircraft’s flight management system and automatic fl
 
 
 
-Modern INS systems are known as IRS. They are completely solid-state units with no moving parts. Three-ring, laser gyros replace the mechanical gyros in the older INS platform systems. This eliminates precession and other mechanical gyro shortcomings. The use of three solid-state accelerometers, one for each plane of movement, also increases accuracy. The accelerometer and gyro output are input to the computer for continuous calculation of the aircraft’s position.
+Modern INS systems are known as IRS. Strapdown ring-laser, fiber-optic and other gyro technologies replace stabilized mechanical platforms in many installations. Some ring-laser gyros employ mechanical dithering; not all units are completely free of moving parts. The use of three solid-state accelerometers, one for each plane of movement, also increases accuracy. The accelerometer and gyro output are input to the computer for continuous calculation of the aircraft’s position.
 
 ![](Laser_Ring_Gyro.png)
 
-The most modern IRS integrate is the satellite GPS. The GPS is extremely accurate in itself. When combined with IRS, it creates one of the most accurate navigation systems available. GPS also feeds data into the IRS computer to be used for error correction. Occasional service interruptions and altitude inaccuracies of the GPS system pose no problem for IRS/GPS. The IRS functions continuously and is completely self-contained within the IRS unit. Should the GPS falter, the IRS portion of the system continues without it. The latest electronic technology has reduced the size and weight of INS/IRS avionics units significantly. 
+The most modern IRS integrate is the satellite GPS. The GPS is extremely accurate in itself. When combined with IRS, it creates one of the most accurate navigation systems available. GPS also feeds data into the IRS computer to be used for error correction. Loss or degradation of GNSS aiding can reduce navigation accuracy as inertial errors accumulate; the effects depend on integration, integrity monitoring and duration. The IRS functions continuously and is completely self-contained within the IRS unit. Should the GPS falter, the IRS portion of the system continues without it. The latest electronic technology has reduced the size and weight of INS/IRS avionics units significantly. 
 
 ## More Reading
+
+[FAA AIM — performance-based navigation](https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap1_section_2.html)
 
 [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system)
 

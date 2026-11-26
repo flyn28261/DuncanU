@@ -19,6 +19,8 @@ Satellite navigation is the primary position source in many modern business airc
 
 **WAAS / SBAS:** Ground monitoring stations estimate satellite and ionospheric errors. An augmentation broadcast provides corrections and integrity information. LPV uses supported SBAS approach guidance. RNAV permits navigation on desired paths; RNP adds onboard performance monitoring and alerting.
 
+**Integrity:** Receiver autonomous integrity monitoring (RAIM) uses redundant measurements to detect certain inconsistent satellite solutions. SBAS provides augmentation integrity information. Jamming can deny reception and spoofing can introduce misleading position/time; RAIM is not a guarantee against spoofing. Shared GNSS degradation can also affect ADS-B and other consumers.
+
 **Navigation databases:** The FMS uses coded waypoints and procedures; GNSS supplies position, not the procedure itself. A database mismatch is distinct from position loss.
 
 ## System Diagram
@@ -48,6 +50,10 @@ Compare receiver status, satellite tracking and independent position sources. Do
 Training theory only; use applicable aircraft and equipment maintenance instructions for live tests and limits.
 
 ### More Reading
+
+[FAA AIM — GNSS and RAIM](https://www.faa.gov/air_traffic/publications/aim_html/chap1_section_1.html)
+
+[FAA — GNSS interference resource guide](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/GNSS)
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 

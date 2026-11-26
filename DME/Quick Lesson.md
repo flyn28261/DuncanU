@@ -17,7 +17,7 @@ DME measures slant-range distance between the aircraft and a ground transponder.
 
 ## Operation
 
-The aircraft interrogator transmits paired pulses; a ground transponder replies after a known delay. The receiver calculates distance from round-trip propagation time after accounting for that delay. DME operates in the UHF region, with associated channels often selected through a VOR or ILS frequency. DME/DME position updating uses ranges from multiple stations.
+The aircraft interrogator transmits paired pulses; a ground transponder replies after a known nominal delay (50 µs for DME/N X channels, 56 µs for Y channels). The receiver calculates distance from round-trip propagation time after accounting for that delay. DME operates in the 960–1215 MHz UHF allocation, with associated channels often selected through a VOR or ILS frequency. DME/DME position updating uses ranges from multiple stations.
 
 ## Signal Flow
 
