@@ -28,6 +28,8 @@ An ILS is used to land an aircraft when visibility is poor. This radio navigatio
 
 The localizer uses assigned channels from 108.10 to 111.95 MHz. Its horizontally polarized antenna array produces overlapping 90 Hz and 150 Hz amplitude-modulation patterns. On the front course, 90 Hz predominates to the left and 150 Hz to the right when facing the runway. Equal modulation depths define the course centerline. Difference in depth of modulation (DDM), rather than either tone alone, determines deviation. Course width depends on the facility.
 
+![Conceptual ILS localizer modulation depth dominance](localizer-ddm.svg)
+
 ![](LOC/PFD-ND-established.png)
 
 An ILS receiver compares modulation depths and supplies signed deviation and validity to the display or flight guidance system. On a valid front course, the deviation indication shows the direction of the course. Back-course and reverse-sensing behavior depend on equipment and mode.
