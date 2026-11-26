@@ -1,8 +1,8 @@
 # Attitude and heading reference systems (AHRS)
 
-[Read More](https://github.com/flyn28261/DuncanU/new/main#read-more)
+[Read More](#read-more)
 
-[Video](https://github.com/flyn28261/DuncanU/new/main#video)
+[Video](#video)
 
 ------------------------------------------------------------------------------------------------------------
 
