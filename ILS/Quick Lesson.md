@@ -17,13 +17,15 @@ ILS provides precision lateral and vertical approach guidance using ground radio
 
 ## Operation
 
-The localizer provides lateral deviation from the approach course; the glideslope provides vertical deviation. Receivers compare modulation components to determine direction and magnitude of deviation. Localizer channels are within 108.10–111.95 MHz; paired glideslope channels are in the UHF band. Marker beacons are legacy position aids and may be absent on modern approaches; DME or other approved fixes can supply position information.
+The localizer provides lateral deviation from the approach course; the glideslope provides vertical deviation. Receivers compare the depths of the 90 Hz and 150 Hz modulation components (DDM) to determine direction and magnitude of deviation. Localizer channels are within 108.10–111.95 MHz; paired glideslope channels are within 329.15–335.00 MHz. Marker beacons are legacy position aids and may be absent on modern approaches; DME or other approved fixes can supply position information.
 
 ## Signal Flow
 
 ```text
 Localizer and glideslope antennas --> navigation receiver --> deviation and validity --> PFD / flight guidance.
 ```
+
+![Conceptual localizer modulation](localizer-ddm.svg)
 
 ## Testing
 
