@@ -17,7 +17,7 @@ HF communications support long-range voice and some digital links beyond normal 
 
 ## Operation
 
-HF occupies 3–30 MHz; aeronautical assignments use portions of this range and nearby frequencies. Ionospheric propagation varies with frequency, time and solar conditions. Aeronautical HF voice commonly uses single-sideband modulation. An antenna coupler matches the electrically short aircraft antenna to the transceiver over its operating range.
+HF occupies 3–30 MHz; aeronautical assignments use portions of this range and nearby frequencies. Ionospheric propagation varies with frequency, time and solar conditions. Aeronautical HF voice commonly uses upper-sideband, suppressed-carrier single-sideband modulation. An antenna coupler matches the electrically short aircraft antenna to the transceiver over its operating range.
 
 ## Signal Flow
 
