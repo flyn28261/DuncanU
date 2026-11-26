@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------------------------------------------
 # Radar Altimeter 
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/Radar%20Altimeter#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/Radar%20Altimeter#videos)
+[Videos](#videos)
 
 
 ------------------------------------------------------------------------------------------------------------
