@@ -1,14 +1,14 @@
 # Flight management system
 
-[Navigation database](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#navigation-database)
+[Navigation database](#navigation-database)
 
-[Flight plan](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#flight-plan)
+[Flight plan](#flight-plan)
 
-[Position determination](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#position-determination)
+[Position determination](#position-determination)
 
-[Read More](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#read-more)
+[Read More](#read-more)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/FMS/README.md#videos)
+[Videos](#videos)
 
 ---------------------------------------------------------------------------------------------------------------
 
