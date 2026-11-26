@@ -17,7 +17,7 @@ A radar altimeter measures height above the reflecting surface beneath the aircr
 
 ## Operation
 
-Many civil radar altimeters operate in the 4.2–4.4 GHz band. Frequency-modulated continuous-wave designs determine range from the difference between transmitted and received frequencies. Other designs exist. Transmit and receive antennas, coax and the transceiver form the RF path. Outputs can support automatic flight control, TAWS and callouts.
+Many civil radar altimeters operate in the 4.2–4.4 GHz band. Frequency-modulated continuous-wave designs determine range from the beat frequency between the current transmitted signal and its delayed return, using the known sweep slope. Other designs exist. Transmit and receive antennas, coax and the transceiver form the RF path. Outputs can support automatic flight control, TAWS and callouts.
 
 ## Signal Flow
 
@@ -42,6 +42,8 @@ Radar altitude measures height above the reflecting surface, while barometric al
 </details>
 
 ### More Reading — Optional
+
+[FAA — radio altimeter interference and flight hazards](https://www.faa.gov/air_traffic/publications/aim_html/chap7_section_6.html)
 
 [Full existing lesson, images and resources](README.md)
 
