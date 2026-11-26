@@ -17,7 +17,7 @@ Terrain awareness systems compare aircraft position, altitude and projected flig
 
 **Inputs:** GNSS position, air data, radar altitude, configuration and flight path information as installed.
 
-**Processing:** Forward-looking terrain awareness is distinct from reactive ground proximity modes. Database validity and position integrity influence the available functions. Runway advisory and overrun awareness features depend on the equipped system.
+**Processing:** Reactive GPWS functions can monitor excessive descent, terrain closure, altitude loss after takeoff, unsafe terrain clearance and deviation below glideslope, as equipped. Enhanced forward-looking terrain awareness compares projected flight path with database terrain and obstacles using position and altitude. Neither function guarantees detection of all hazards. Database validity and position integrity influence the available functions. Runway advisory and overrun awareness features depend on the equipped system.
 
 **Outputs:** Aural alerts, visual annunciations and terrain overlays are distributed to cockpit systems.
 
@@ -41,6 +41,8 @@ Unexpected alerts may reflect position, altitude, configuration or database issu
 Training theory only; use applicable aircraft and equipment maintenance instructions for live tests and limits.
 
 ### More Reading
+
+[FAA AIM — flight hazards and safety systems](https://www.faa.gov/air_traffic/publications/aim_html/chap7_section_6.html)
 
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
