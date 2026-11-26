@@ -27,7 +27,7 @@ Modern corporate aircraft use air data computers (ADC) or integrated air data fu
 | CAS | Calibrated airspeed: IAS corrected for instrument and position error |
 | TAS | True airspeed: actual speed relative to the surrounding air |
 
-**Temperature probe:** A resistance temperature sensor or other installed sensing element measures recovered air temperature. Probe heating can provide ice protection; the sensing and heater circuits are distinct. The ADC accounts for probe recovery characteristics as applicable.
+**Temperature probe:** A resistance temperature sensor or other installed sensing element measures recovered air temperature; heating and recovery effects depend on probe design. Probe heating can provide ice protection; the sensing and heater circuits are distinct. The ADC accounts for probe recovery characteristics as applicable.
 
 **Ram rise:** At higher Mach numbers, decelerating airflow raises the sensed temperature. For ideal full recovery in air, TAT = SAT × (1 + 0.2 × M²), using absolute temperature in kelvin. At Mach 0.80, a SAT of 223.15 K (−50 °C) gives an ideal TAT of about 251.7 K (−21.4 °C). Actual probe corrections are equipment-specific.
 
@@ -70,7 +70,7 @@ TAS also depends on static air temperature; a faulty temperature input or correc
 
 ### More Reading
 
-[FAA AMT Handbook – Airframe, Chapter 10: Airspeed Indicators (10-23) and Total Air Temperature Measurement (10-40)](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
+[FAA AMT Handbook – Airframe, Chapter 10: aircraft instruments and airspeed](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [Related lesson: ADC](../Air%20Data%20Computer/README.md)
 
