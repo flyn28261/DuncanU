@@ -30,6 +30,10 @@ Each core lesson is designed for **approximately 5–7 minutes**, with optional 
 
 **[Air Data Computer (ADC)](Air%20Data%20Computer/README.md)** — 5–7 min
 
+**[SAT, TAT and True Airspeed](SAT%20and%20TAS/README.md)** — 6 min
+
+**[Vertical Speed Indicator (VSI)](Vertical%20Speed/README.md)** — 5 min
+
 **[Pitot Static](Pitot%20Static/Quick%20Lesson.md)** — 5 min · [Full reference](Pitot%20Static/Readme.md)
 
 **[AHRS](AHRS/Quick%20Lesson.md)** — 5 min · [Full reference](AHRS/README.md)
@@ -109,6 +113,8 @@ Each core lesson is designed for **approximately 5–7 minutes**, with optional 
 **[Aircraft Wiring, Connectors, Bonding and Shielding](Wiring%20and%20Connectors/README.md)** — 5–7 min
 
 **[Avionics Test Equipment and Fault Isolation](Avionics%20Test%20Equipment/README.md)** — 5–7 min
+
+**[FAA Avionics Performance and Testing Requirements](Avionics%20Performance%20Requirements/README.md)** — 6 min
 
 ## Legacy Background — Optional Reference
 
