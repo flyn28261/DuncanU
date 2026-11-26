@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------------------------------------------
 # VHF COMM 
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/VHF%20COMM#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/VHF%20COMM#videos)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
