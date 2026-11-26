@@ -9,6 +9,8 @@
 
 [More Reading](#more-reading)
 
+[Videos](#videos)
+
 ------------------------------------------------------------------------------------------------------------
 
 Integrated flight decks distribute digital information across switched or shared networks. Ethernet-based avionics networks, CAN and ARINC 429 solve different communication problems.
@@ -46,5 +48,11 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
 [Related lesson: ARINC 429](../ARINC%20429/README.md)
+
+[AIM — ARINC 429 and AFDX technical tutorials](https://www.aim-online.com/products-overview/tutorials/)
+
+### Videos
+
+[Excalibur Systems — ARINC tutorial videos](https://www.mil-1553.com/tutorials-arinc) — use the civilian ARINC sections.
 
 [Back to DuncanU](../README.md)
