@@ -9,6 +9,8 @@
 
 [More Reading](#more-reading)
 
+[Videos](#videos)
+
 ------------------------------------------------------------------------------------------------------------
 
 Airborne weather radar transmits microwave energy and analyzes reflected signals to depict precipitation. Many business aircraft use X-band radar near 9–10 GHz; actual frequency depends on the equipment.
@@ -50,5 +52,9 @@ Training theory only; use applicable aircraft and equipment maintenance instruct
 [FAA Aviation Maintenance Technician Handbook – Airframe, Chapter 11](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf) — foundational reference; modern system details are supplementary training theory.
 
 [Garmin — Weather radar training overview](https://www.garmin.com/en-US/newsroom/press-release/aviation/garmin-announces-new-pilot-training-opportunities-through-spring-2022/)
+
+### Videos
+
+[Garmin — Airborne Weather Radar Fundamentals](https://www.youtube.com/watch?v=yJjTGyYudGo) — manufacturer webinar on radar operation and limitations.
 
 [Back to DuncanU](../README.md)
