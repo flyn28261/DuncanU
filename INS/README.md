@@ -1,8 +1,8 @@
 # Inertial navigation system / Inertial Reference System
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/INS/README.md#more-reading) 
+[More Reading](#more-reading) 
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/INS/README.md#videos)
+[Videos](#videos)
 
 --------------------------------------------------------------------------------------
 
