@@ -1,17 +1,17 @@
 -------------------------------------------------------------------------------------------------------------
 # Distance Measuring  Equipment 
 
-[Operation](https://github.com/flyn28261/DuncanU/tree/main/DME#Operation)
+[Operation](#operation)
 
-[Distance calculation](https://github.com/flyn28261/DuncanU/tree/main/DME#Distance-calculation)
+[Distance calculation](#distance-calculation)
 
-[Radio frequency and modulation data](https://github.com/flyn28261/DuncanU/tree/main/DME#Radio-frequency-and-modulation-data)
+[Radio frequency and modulation data](#radio-frequency-and-modulation-data)
 
-[Frequency usage/channelization](https://github.com/flyn28261/DuncanU/tree/main/DME#Frequency-usagechannelization)
+[Frequency usage/channelization](#frequency-usagechannelization)
 
-[More Reading](https://github.com/flyn28261/DuncanU/tree/main/DME#more-reading-2)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/tree/main/DME#Videos-2)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
