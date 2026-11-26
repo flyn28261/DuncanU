@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------------------------------------------
 # ELT 
 
-[More Reading](https://github.com/flyn28261/DuncanU/blob/main/ELT/README.md#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/blob/main/ELT/README.md#videos)
+[Videos](#videos)
 
 ------------------------------------------------------------------------------------------------------------
 
