@@ -1,15 +1,15 @@
 ------------------------------------------------------------------------------------------------------------
 # KA KU
 
-[Operation](#operation)
+[Radio Communication](#radio-communication)
+
+[Antennas and Transmission Lines](#antennas-and-transmission-lines)
 
 [Frequency Bands](#frequency-bands)
 
 [System Components](#system-components)
 
 [Aircraft Connectivity](#aircraft-connectivity)
-
-[Troubleshooting Concepts](#troubleshooting-concepts)
 
 [Satellite RF Signal Path](#satellite-rf-signal-path)
 
@@ -19,7 +19,7 @@
 
 [Fault Isolation Examples](#fault-isolation-examples)
 
-[Knowledge Check](#knowledge-check)
+[Troubleshooting Concepts](#troubleshooting-concepts)
 
 [More Reading](#more-reading)
 
@@ -27,9 +27,23 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-## Operation
-
 Ka-band and Ku-band satellite communication systems provide broadband connectivity to aircraft. The aircraft communicates with a satellite, which relays traffic through a network to ground infrastructure or other satellites. These systems can support passenger internet and other services, depending on the installation and provider.
+
+*The FAA handbook provides the radio and antenna fundamentals in this lesson. Ka/Ku broadband satellite architecture is supplemental material, not a dedicated FAA handbook lesson.*
+
+## Radio Communication
+
+Radio communication relies on electromagnetic energy carrying information between a transmitting station and a receiving station. The transmitter generates and modulates a carrier, while the receiving equipment selects the desired signal and recovers its information. A transceiver combines both functions. The antenna and transmission line form the interface between the electronic equipment and the radiated signal.
+
+See FAA-H-8083-31B, Chapter 11, pages 11-29 through 11-36.
+
+## Antennas and Transmission Lines
+
+Antenna design determines how radio energy is radiated or received. Frequency, polarization and radiation pattern affect the suitability of the antenna for a particular service. Aircraft structure and mounting location can influence the installed radiation pattern. The transmission line must be appropriate for the radio and antenna, with compatible connectors and installation practices.
+
+The FAA discusses equipment installation, shielding, bonding, interference and antenna installation in Chapter 11. These general principles apply to connectivity installations, but the approved equipment and aircraft documentation establishes the actual requirements.
+
+See FAA-H-8083-31B, Chapter 11, pages 11-36 through 11-39 and 11-70 through 11-75.
 
 ## Frequency Bands
 
@@ -114,29 +128,13 @@ A lower orbit does not guarantee a particular speed or coverage. Congestion, rou
 
 These symptoms are not unique to the listed causes. RF transmitters and moving antenna assemblies can present hazards; observe approved maintenance safety precautions and never substitute this lesson for equipment-specific procedures.
 
-## Knowledge Check
-
-1. What is the difference between an uplink and a downlink?
-2. Why does a directional antenna require tracking on an aircraft?
-3. Does Ka-band necessarily mean a GEO satellite?
-4. Why can a radome repair affect connectivity?
-5. Why is cabin Wi-Fi association insufficient to prove a working satellite link?
-
-<details><summary>Answers</summary>
-
-1. Uplink travels toward the satellite; downlink travels from it.
-2. Aircraft position and attitude change the pointing geometry.
-3. No. Frequency and orbit are independent characteristics.
-4. Material, finish or moisture may alter attenuation and other RF properties.
-5. The local wireless network can operate independently of the external satellite connection.
-
-</details>
-
 ## Troubleshooting Concepts
 
 Distinguish cabin network faults from modem, antenna tracking, satellite coverage and service provisioning issues. Radome condition, RF path integrity, antenna blockage and weather can affect link performance. Follow applicable approved aircraft and equipment documentation, including RF exposure precautions, for all maintenance and testing.
 
 ### More Reading
+
+[FAA Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B), Chapter 11, pages 11-29–11-39 and 11-70–11-75](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
 
 [Collins Aerospace — passenger connectivity and dual-band solutions](https://www.rtx.com/collinsaerospace/what-we-do/industries/business-aviation/flight-support-services/aircraft-connectivity-services/passenger-services)
 
@@ -150,7 +148,8 @@ Distinguish cabin network faults from modem, antenna tracking, satellite coverag
 
 ### Videos
 
+[Communication and Navigation — AMT Handbook Chapter 11](https://www.youtube.com/watch?v=UBsLm71j8Xk) (third-party narration of an earlier handbook edition)
+
 [Viasat — The Secret Sauce Behind In-Flight Connectivity for Business Aviation](https://www.youtube.com/watch?v=opM8ktcHEk0)
 
 Manufacturer overview of satellite network capacity and its relationship to airborne internet performance.
-
