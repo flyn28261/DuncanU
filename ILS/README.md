@@ -1,17 +1,17 @@
 -----------------------------------------------------------------------------------------------------------
 # Instrument Landing System (ILS)
 
-[Localizer](https://github.com/flyn28261/DuncanU/tree/main/ILS#localizer-loc)
+[Localizer](#localizer-loc)
 
-[Glideslope](https://github.com/flyn28261/DuncanU/tree/main/ILS#glideslope-gs)
+[Glideslope](#glideslope-gs)
 
-[Marker Beacons](https://github.com/flyn28261/DuncanU/tree/main/ILS#marker-beacons-mb)
+[Marker Beacons](#marker-beacons-mb)
 
-[Distance Measuring Equipment)](https://github.com/flyn28261/DuncanU/blob/main/DME/readme.md#distance-measuring--equipment). 
+[Distance Measuring Equipment)](../DME/readme.md). 
 
-[More Reading](https://github.com/flyn28261/DuncanU/edit/main/ILS#more-reading)
+[More Reading](#more-reading)
 
-[Videos](https://github.com/flyn28261/DuncanU/edit/main/ILS#videos)
+[Videos](#videos)
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ ILS radio components can be tested with an ILS test unit. Localizer, glideslope,
 
 ![](MB/MB3.jpg)
 
-Markers are largely being phased out and replaced by [distance measuring equipment (DME)](https://github.com/flyn28261/DuncanU/blob/main/DME/readme.md#distance-measuring--equipment). 
+Markers are largely being phased out and replaced by [distance measuring equipment (DME)](../DME/readme.md). 
 
 #### More Reading
 
