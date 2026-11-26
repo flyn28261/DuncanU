@@ -25,11 +25,11 @@ For more advanced automated control, **flight management systems** have been dev
 
 ## Foundations of autopilot Operation
 
-The core principle behind autopilot system operation is error correction. When an aircraft deviates from the selected conditions, an error occurs, prompting the autopilot system to make necessary corrections and restore the aircraft to the desired flight attitude. Modern autopilot systems primarily use two methods for this: **position-based** and **rate-based control**. Position-based systems adjust control surfaces to correct any deviation from the desired attitude, while rate-based systems use information about the aircraft's rate of movement to counteract changes causing errors. Rate-based systems are commonly used in larger aircraft, while smaller aircraft may employ either approach.
+The core principle behind autopilot system operation is error correction. When an aircraft deviates from the selected conditions, an error occurs, prompting the autopilot system to make necessary corrections and restore the aircraft to the desired flight attitude. Modern digital control laws can combine attitude or position error, angular rate, navigation deviation and actuator feedback. The exact control laws and sensor sources are aircraft-specific.
 
 ## Components of autopilot Systems
 
-Most autopilot systems consist of four primary components, along with various switches and auxiliary units. These core components include **sensing elements**, a **computing element**, **output elements**, and **command elements**. Some advanced systems may include a fifth element, **feedback or follow-up**, which provides updates during error correction.
+Most autopilot systems consist of four primary components, along with various switches and auxiliary units. These core components include **sensing elements**, a **computing element**, **output elements**, and **command elements**. Closed-loop control relies on feedback from aircraft state; dedicated actuator position feedback hardware varies by design.
 
 1. **Sensing Elements**: These elements, including attitude and directional gyros, turn coordinators, and altitude controls, detect aircraft movements and generate electrical signals used by the autopilot to make corrections. In modern digital systems, various sensors like MEMS gyros, solid-state accelerometers, and magnetometers may be used, and they communicate via a [digital data bus](https://en.wikipedia.org/wiki/Digital_data_bus).
 
@@ -39,17 +39,15 @@ Most autopilot systems consist of four primary components, along with various sw
 
 4. **Command Elements**: The command unit, also known as a flight controller, allows the pilot to issue instructions to the autopilot. The pilot selects specific maneuvers or flight conditions via the flight controller, and the autopilot executes them. This interface may vary in complexity depending on the system.
 
-5. **Feedback or Follow-up Element (optional)**: In systems that include this element, follow-up signals are generated to progressively reduce errors during correction, preventing continuous overcorrection. Rate systems, for example, use feedback signals to counteract initial error signals and bring the aircraft back to the desired attitude.
+5. **Feedback or Follow-up Element**: In systems that include this element, follow-up signals are generated to progressively reduce errors during correction, preventing continuous overcorrection. Rate systems, for example, use feedback signals to counteract initial error signals and bring the aircraft back to the desired attitude.
 
 ## autopilot Functions
 
-autopilot systems use electrical signals from gyro-sensing units to control the aircraft's attitude and direction. These signals, linked to flight instruments, provide data on direction, rate of turn, bank, or pitch. Deviations from the desired flight conditions trigger the gyros to generate electrical signals that are sent to the autopilot computer and amplifier. Servos in each control channel convert these signals into mechanical force to adjust the control surfaces.
-
-The rudder channel, for instance, receives signals from the compass system and turn-and-bank indicator gyro to control rudder movement. The aileron channel uses a transmitter in the gyro horizon indicator to correct for roll, while the elevator channel detects and corrects pitch changes. Altitude control involves an altitude unit generating error signals to adjust the pitch servos for altitude hold or altitude select functions.
+Digital flight guidance computers use attitude, air data, navigation and mode selections to compute commands. Roll and pitch channels command servos or flight control computers; yaw damping may use a separate or integrated function. Feedback, engagement interlocks and monitoring vary with aircraft design.
 
 **Yaw Dampening**
 
-Many aircraft experience oscillations around their vertical axis while maintaining a fixed heading. A **yaw damper**, either integrated into the autopilot system or a standalone unit, corrects this motion. It receives error signals from the turn coordinator rate gyro and automatically adjusts the rudder, counteracting yaw motion.
+Many aircraft experience oscillations around their vertical axis while maintaining a fixed heading. A **yaw damper**, either integrated into the autopilot system or a standalone unit, corrects this motion. It uses yaw-rate and other relevant sensor data as designed to command rudder or other control action, damping Dutch-roll motion.
 
 ## Automatic Flight Control System (AFCS)
 
@@ -59,7 +57,7 @@ AFCS capabilities differ across systems but often include extensive programmabil
 
 **Flight Director Systems**
 
-A **flight director system**, essentially an autopilot system without the servos, computes and displays the required aircraft attitude to achieve a specific flight condition. It provides command indications on the aircraft's attitude indicator, assisting the pilot in maneuvering the aircraft effectively. Flight director systems can be integrated into autopilot systems or exist independently, offering valuable guidance during instrument approaches and navigation.
+A **flight director system**, a guidance function that displays computed commands, computes and displays the required aircraft attitude to achieve a specific flight condition. It provides command indications on the aircraft's attitude indicator, assisting the pilot in maneuvering the aircraft effectively. Flight director systems can be integrated into autopilot systems or exist independently, offering valuable guidance during instrument approaches and navigation.
 
 The flight director information is displayed on an instrument like the attitude indicator, using a visual reference technique. The pilot follows commands displayed on the instrument panel to achieve the desired maneuvers. Flight director systems comprise sensing elements, a computer, and an interface panel, and their complexity and features can vary.
 
@@ -67,6 +65,8 @@ Overall, autopilot systems, whether basic or advanced AFCS, play a crucial role 
 
 
 
-More Reading
+### More Reading
 
-Videos
+[FAA AMT Airframe handbook — automatic flight control](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf)
+
+[Related lesson: Flight Guidance](../Flight%20Guidance/README.md)
